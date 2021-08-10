@@ -9,30 +9,43 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.logging.Logger;
 
+import backend.metier.bdd.GestionBDD;
 import backend.metier.exceptions.NullObjectException;
 import backend.metier.hardware.arduino.Trame;
 
 public class ReceptionTrames {
 
-	public static void main(String[] args) throws IOException, NumberFormatException, NullObjectException {
-		// Server Host
+	private Logger LOG = Logger.getLogger("ReceptionTrames");
 
-		String serverHost = "169.254.177.13";
-		Logger LOG = Logger.getLogger("ReceptionTrames");
+	private Socket socketOfClient = null;
+	private BufferedReader in = null;
+	private BufferedWriter os = null;
 
-		Socket socketOfClient = null;
-		BufferedReader in = null;
+	private String trame;
+	private Trame newTrame;
 
-		BufferedWriter os = null;
+	private GestionBDD BDD;
+	private String localisation;
+	private String user;
+	private String password;
+	private String query;
+
+	public ReceptionTrames() throws NumberFormatException, NullObjectException {
+
+		this.localisation = "localhost/domotique";
+		this.user = "root";
+		this.password = "";
+		connectionServeur("169.254.177.13", 23);
+	}
+
+	private void connectionServeur(String serverHost, int serverPort) throws NullObjectException {
 
 		try {
-
 			// Send a request to connect to the server is listening
-			socketOfClient = new Socket(serverHost, 23);
+			socketOfClient = new Socket(serverHost, serverPort);
 
 			// Input stream at Client (Receive data from the server).
 			in = new BufferedReader(new InputStreamReader(socketOfClient.getInputStream()));
-
 			os = new BufferedWriter(new OutputStreamWriter(socketOfClient.getOutputStream()));
 
 		} catch (UnknownHostException e) {
@@ -44,38 +57,40 @@ public class ReceptionTrames {
 		}
 
 		try {
-
-			// Read data sent from the server.
-			// By reading the input stream of the Client Socket.
-
-			//os.write("HELO");
-
-			// End of line
+			// envois demande connection à l'arduino
 			os.newLine();
-
-			// Flush data.
 			os.flush();
-			String trame;
-			String[] data;
-			Trame newTrame;
-			while ((trame = in.readLine()) != null) {
-				LOG.info(trame);
 
-				data = trame.split(";");
-
-				newTrame = new Trame(data[0], data[1], data[2], Float.parseFloat(data[3]));
-				LOG.info(newTrame.getName());
-
-			}
+			this.receptionStockageTrame();
 
 			in.close();
+			os.close();
 			socketOfClient.close();
 		} catch (UnknownHostException e) {
 			LOG.severe("Trying to connect to unknown host: " + e);
 		} catch (IOException e) {
 			LOG.severe("IOException:  " + e);
 		}
+	}
 
+	private void receptionStockageTrame() throws IOException, NullObjectException {
+
+		BDD = new GestionBDD(localisation, user, password);
+
+		while ((trame = in.readLine()) != null) {
+
+			newTrame = new Trame(trame);
+			LOG.info(trame);
+
+			query = "INSERT INTO `acquisition`";
+			query += "(`IDAcquisition`, `nameAcquisition`, `pinAcquisition`, `valeurAcquisition`, `dateAcquisition`)";
+			query += "VALUES (NULL, '" + newTrame.getAllData() + "', current_timestamp())";
+
+			BDD.writeBDD(query);
+		}
+		
+		BDD.closeConnection();
+		
 	}
 
 }

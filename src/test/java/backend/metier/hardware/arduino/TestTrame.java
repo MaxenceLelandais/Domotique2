@@ -1,27 +1,27 @@
 package backend.metier.hardware.arduino;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import javax.annotation.processing.Generated;
 
 import org.junit.jupiter.api.Test;
 
-public class TestTrame {
+import backend.metier.exceptions.NullObjectException;
 
-	private Trame createTestSubject() {
-		return new Trame("", "", "", 0);
+public class TestTrame {
+	
+
+
+	private Trame createTestSubject() throws NullObjectException {
+		return new Trame("");
 	}
 	
 
 	@Test
-	public void testConstructor() throws Exception {
+	public void testConstructor() throws NullObjectException {
 		
-		new Trame(null, "", "", 0);
-		new Trame("", null, "", 0);
-		new Trame("", "", null, 0);
-		new Trame("", "", "", null);
-
-		// default test
-		testSubject = createTestSubject();
-		result = testSubject.getName();
+		
+		new Trame(null);
 	}
 
 	@Test
