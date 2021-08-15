@@ -32,6 +32,9 @@ public class RecettesCuisine {
 	public RecettesCuisine(String codeHtml) {
 
 		this.codeHtml = codeHtml;
+	}
+
+	public void rechercheAll() {
 
 		this.findNom();
 		this.findNoteAvie();
@@ -43,7 +46,47 @@ public class RecettesCuisine {
 		this.findEtapes();
 
 //		this.afficheResultat();
+	}
 
+	public String recherche(String rechercheStart, String rechercheEnd) {
+
+		int longueurStart;
+		int debut;
+		int fin;
+
+		longueurStart = rechercheStart.length();
+		debut = codeHtml.indexOf(rechercheStart, post) + longueurStart;
+
+		if (debut == -1 || debut < post) {
+			return null;
+		}
+		
+		fin = codeHtml.indexOf(rechercheEnd, debut);
+		if (fin == -1) {
+			return null;
+		}
+		post = fin + rechercheEnd.length();
+
+		return codeHtml.substring(debut, fin).replaceFirst("\\s++$", "");
+	}
+	
+	public ArrayList<String> recherche(String rechercheStart, String rechercheEnd, boolean all) {
+		
+		ArrayList<String> pages = new ArrayList<>();
+		
+		if(all) {
+			while (true) {
+				String resultat = recherche(rechercheStart, rechercheEnd);
+				
+				if (resultat == null) {
+					break;
+				}
+				pages.add(resultat);
+			}
+		}
+		
+		return pages;
+		
 	}
 
 	private void findNom() {
@@ -159,31 +202,6 @@ public class RecettesCuisine {
 			etapes.add(resultat.replaceAll(" <br>", ""));
 		}
 
-	}
-
-	private String recherche(String rechercheStart, String rechercheEnd) {
-
-		int longueurStart;
-		int debut;
-		int fin;
-
-		longueurStart = rechercheStart.length();
-
-		debut = codeHtml.indexOf(rechercheStart, post) + longueurStart;
-
-		if (debut == -1 || debut < post) {
-			return null;
-		}
-
-		fin = codeHtml.indexOf(rechercheEnd, debut);
-
-		if (fin == -1) {
-			return null;
-		}
-
-		post = fin + rechercheEnd.length();
-
-		return codeHtml.substring(debut, fin).replaceFirst("\\s++$", "");
 	}
 
 	private void afficheResultat() {

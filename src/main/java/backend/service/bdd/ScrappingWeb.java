@@ -2,56 +2,71 @@ package backend.service.bdd;
 
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.time.LocalDate;
+import java.util.ArrayList;
 import java.io.*;
 
 import javax.net.ssl.HttpsURLConnection;
 
 import backend.metier.bdd.RecettesCuisine;
 
-public class ScrappingWeb {
+public class ScrappingWeb extends Thread {
+	private ArrayList<String> urlList;
 
-	public static void main(String[] args) throws InterruptedException {
-		new ScrappingWeb().scrape();
+	public ScrappingWeb(ArrayList<String> urlList) {
+		this.urlList = urlList;
+	}
+	public ScrappingWeb() {
 	}
 
-	private void scrape() throws InterruptedException {
 
-		long chrono = System.currentTimeMillis(); // Create a date object
-		System.out.println("start : "); // Display the current date
-		final String httpsUrl = "https://www.750g.com/beignets-aux-pommes-r81596.htm";
+	public void run() {
+		
+
+		for (String url : urlList) {
+			System.out.println(url);
+
+			String codeHtml = this.getCodeHtml(url);
+			
+
+			if (codeHtml != null) {
+				RecettesCuisine recette = new RecettesCuisine(codeHtml);
+
+				recette.rechercheAll();
+				System.out.println(url);
+
+			} else {
+				System.out
+						.println("erreur de communication avec le site : " +url);
+			}
+		}
+
+	}
+
+	public String getCodeHtml(String httpsUrl) {
+		String codeHtml;
+		String input;
 
 		try {
-			System.out.println("connect: " + (System.currentTimeMillis() - chrono));
+			codeHtml = "";
+
 			final URL url = new URL(httpsUrl);
 			final HttpsURLConnection con = (HttpsURLConnection) url.openConnection();
 
-			System.out.println("get page: " + (System.currentTimeMillis() - chrono));
-			System.out.println("****** Content of the URL ********");
 			final BufferedReader br = new BufferedReader(new InputStreamReader(con.getInputStream(), "utf8"));
 
-			String input;
-			String codeHtml = "";
-			System.out.println("write " + (System.currentTimeMillis() - chrono));
-			
-
 			while ((input = br.readLine()) != null) {
-
 				codeHtml = codeHtml.concat(input + " ");
-
 			}
-//			System.out.println(codeHtml);
-
-			System.out.println("start getInfo: " + (System.currentTimeMillis() - chrono));
-
-			RecettesCuisine recette = new RecettesCuisine(codeHtml);
-			System.out.println("end getInfo: " + (System.currentTimeMillis() - chrono));
 
 			br.close();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
+			return null;
 		} catch (IOException e) {
 			e.printStackTrace();
+			return null;
 		}
+
+		return codeHtml;
 	}
 }
