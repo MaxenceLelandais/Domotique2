@@ -8,13 +8,18 @@ import java.io.*;
 import javax.net.ssl.HttpsURLConnection;
 
 import backend.metier.bdd.RecettesCuisine;
+import backend.metier.formatage.HtmlToCorrectText;
 
 public class ScrappingWeb extends Thread {
+	
 	private ArrayList<String> urlList;
+	
+	private HtmlToCorrectText htmlToCorrectText = new HtmlToCorrectText();
 
 	public ScrappingWeb(ArrayList<String> urlList) {
 		this.urlList = urlList;
 	}
+	
 	public ScrappingWeb() {
 	}
 
@@ -35,8 +40,7 @@ public class ScrappingWeb extends Thread {
 				System.out.println(url);
 
 			} else {
-				System.out
-						.println("erreur de communication avec le site : " +url);
+				System.out.println("erreur de communication avec le site : " +url);
 			}
 		}
 
@@ -57,6 +61,9 @@ public class ScrappingWeb extends Thread {
 			while ((input = br.readLine()) != null) {
 				codeHtml = codeHtml.concat(input + " ");
 			}
+			
+			
+			codeHtml = htmlToCorrectText.changeCode(codeHtml);
 
 			br.close();
 		} catch (MalformedURLException e) {

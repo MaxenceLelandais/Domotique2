@@ -1,12 +1,14 @@
 package backend.metier.bdd;
 
 import java.util.ArrayList;
+import java.util.List;
+
+import backend.metier.formatage.HtmlToCorrectText;
 
 public class RecettesCuisine {
 
 	private String codeHtml;
 	private int post = 0;
-	private int savePost = 0;
 
 	private String nom;
 
@@ -26,8 +28,71 @@ public class RecettesCuisine {
 
 	private String tempsPreparation;
 	private String tempsCuisson;
+	private String tempsAttente;
 
 	private ArrayList<String> etapes = new ArrayList<>();
+	
+	private HtmlToCorrectText htmlToCorrectText = new HtmlToCorrectText();
+
+	public String getNom() {
+		return nom;
+	}
+
+	public String getTempsTotal() {
+		return tempsTotal;
+	}
+
+	public String getDifficulte() {
+		return difficulte;
+	}
+
+	public String getCout() {
+		return cout;
+	}
+
+	public String getNote() {
+		return note;
+	}
+
+	public String getAvis() {
+		return avis;
+	}
+
+	public String getNombreDePersonnes() {
+		return nombreDePersonnes;
+	}
+
+	public List<String> getIngredients() {
+		return ingredients;
+	}
+
+	public List<String> getMateriels() {
+		return materiels;
+	}
+
+	public List<String[]> getImagesIngredients() {
+		return imagesIngredients;
+	}
+
+	public List<String[]> getImagesMateriels() {
+		return imagesMateriels;
+	}
+
+	public String getTempsPreparation() {
+		return tempsPreparation;
+	}
+
+	public String getTempsCuisson() {
+		return tempsCuisson;
+	}
+
+	public String getTempsAttente() {
+		return tempsAttente;
+	}
+
+	public List<String> getEtapes() {
+		return etapes;
+	}
 
 	public RecettesCuisine(String codeHtml) {
 
@@ -42,10 +107,10 @@ public class RecettesCuisine {
 		this.findNbrPersonne();
 		this.findIngredients();
 		this.findMateriels();
-		this.findTempsPreparationCuisson();
+		this.findTempsPreparationCuissonAttente();
 		this.findEtapes();
 
-//		this.afficheResultat();
+		this.afficheResultat();
 	}
 
 	public String recherche(String rechercheStart, String rechercheEnd) {
@@ -58,35 +123,35 @@ public class RecettesCuisine {
 		debut = codeHtml.indexOf(rechercheStart, post) + longueurStart;
 
 		if (debut == -1 || debut < post) {
-			return null;
+			return "undefined";
 		}
-		
+
 		fin = codeHtml.indexOf(rechercheEnd, debut);
 		if (fin == -1) {
-			return null;
+			return "undefined";
 		}
 		post = fin + rechercheEnd.length();
 
 		return codeHtml.substring(debut, fin).replaceFirst("\\s++$", "");
 	}
-	
+
 	public ArrayList<String> recherche(String rechercheStart, String rechercheEnd, boolean all) {
-		
+
 		ArrayList<String> pages = new ArrayList<>();
-		
-		if(all) {
+
+		if (all) {
 			while (true) {
 				String resultat = recherche(rechercheStart, rechercheEnd);
-				
-				if (resultat == null) {
+
+				if (resultat == "undefined") {
 					break;
 				}
 				pages.add(resultat);
 			}
 		}
-		
+
 		return pages;
-		
+
 	}
 
 	private void findNom() {
@@ -116,6 +181,9 @@ public class RecettesCuisine {
 	private void findNbrPersonne() {
 
 		nombreDePersonnes = recherche("<span class=\"ingredient-variator-label\">", "personnes</span>");
+		if(nombreDePersonnes=="0" ) {
+			nombreDePersonnes = "undefined";
+		}
 	}
 
 	private void findIngredients() {
@@ -123,6 +191,7 @@ public class RecettesCuisine {
 		String resultat;
 		String urlImg;
 		String nomImg;
+		int savePost;
 
 		while (true) {
 
@@ -134,7 +203,7 @@ public class RecettesCuisine {
 
 			resultat = recherche("<span class=\"recipe-ingredients-item-label\">", "</span>");
 
-			if (resultat == null) {
+			if (resultat == "undefined") {
 				post = savePost;
 				break;
 			}
@@ -152,8 +221,8 @@ public class RecettesCuisine {
 		String resultat;
 		String urlImg;
 		String nomImg;
-
-		int positionMateriel = codeHtml.indexOf("<header><h2>Matériel</h2></header>", post);
+		int savePost;
+		int positionMateriel = codeHtml.indexOf("<header><h2>MatÃ©riel</h2></header>", post);
 
 		if (positionMateriel != -1) {
 
@@ -167,7 +236,7 @@ public class RecettesCuisine {
 
 				resultat = recherche("<span class=\"recipe-equipments-item-label\">", "</span>");
 
-				if (resultat == null) {
+				if (resultat == "undefined") {
 					post = savePost;
 					break;
 				}
@@ -181,25 +250,37 @@ public class RecettesCuisine {
 		}
 	}
 
-	private void findTempsPreparationCuisson() {
-		recherche("<header><h2>", "Préparation");
 
-		tempsPreparation = recherche("M\">", "min</time></strong>");
-		tempsCuisson = recherche("M\">", "min</time></strong>");
+	private void findTempsPreparationCuissonAttente() {
+		recherche("<header><h2>", "PrÃ©paration");
+
+		tempsPreparation = recherche("datetime=\"", "</time></strong>");
+		if("undefined"!=tempsPreparation) {
+			tempsPreparation = tempsPreparation.split(">")[1];
+		}
+		tempsCuisson = recherche("datetime=\"", "</time></strong>");
+		if("undefined"!=tempsCuisson) {
+			tempsCuisson = tempsCuisson.split(">")[1];
+		}
+		tempsAttente = recherche("datetime=\"", "</time></strong>");
+		if("undefined"!=tempsAttente) {
+			tempsAttente = tempsAttente.split(">")[1];
+		}
 	}
 
 	private void findEtapes() {
 
 		String resultat;
 
+
 		while (true) {
 
 			resultat = recherche("<div class=\"recipe-steps-text\"><p>", "</p></div>");
-			if (resultat == null) {
+			if (resultat == "undefined") {
 				break;
 			}
 
-			etapes.add(resultat.replaceAll(" <br>", ""));
+			etapes.add(htmlToCorrectText.suppBalise(resultat));
 		}
 
 	}
@@ -208,8 +289,8 @@ public class RecettesCuisine {
 		System.out.println("nom : " + nom);
 
 		System.out.print("\ntemps total : " + tempsTotal + " ,  ");
-		System.out.print("difficulté : " + difficulte + " ,  ");
-		System.out.println("coût : " + cout);
+		System.out.print("difficultÃ© : " + difficulte + " ,  ");
+		System.out.println("coÃ»t : " + cout);
 
 		System.out.print("\nnote : " + note + " / 5 ,  ");
 		System.out.println("avis : " + avis + " avis");
@@ -230,10 +311,11 @@ public class RecettesCuisine {
 			System.out.println("nom de l'image : " + imagesMateriels.get(k)[1]);
 		}
 
-		System.out.print("temps de préparation : " + tempsPreparation + " mins,  ");
-		System.out.println("temps de cuisson : " + tempsCuisson + " mins");
+		System.out.print("temps de prÃ©paration : " + tempsPreparation + " ,  ");
+		System.out.print("temps de cuisson : " + tempsCuisson + " ,  ");
+		System.out.println("temps de attente : " + tempsAttente + " ");
 
-		System.out.println("\nétapes : ");
+		System.out.println("\nÃ©tapes : ");
 		for (String etape : etapes) {
 			System.out.println("- " + etape);
 		}

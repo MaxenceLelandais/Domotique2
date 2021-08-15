@@ -8,7 +8,7 @@ public class Application {
 	public static void main(String[] args) throws NumberFormatException, NullObjectException {
 //		new ReceptionTrames();
 		ListPageWeb a = new ListPageWeb();
-		a.start();
+//		a.start();
 		
 
 	}

@@ -17,40 +17,50 @@ public class ListPageWeb {
 	private int numThread;
 
 	public ListPageWeb() {
+		
+		
 
 		ScrappingWeb scrap = new ScrappingWeb();
-
-		for (int i = 0; i <= nbrThread; i++) {
-			allRecettes.add(new ArrayList<>());
-		}
-
-		for (String categorie : categiriesCuisine) {
-
-			int nbr = 1;
-			int nbrRecette = 0;
-
-			while (true) {
-
-				String codeHtml = scrap.getCodeHtml(categorie + "?page=" + nbr);
-				RecettesCuisine recette = new RecettesCuisine(codeHtml);
-				listRecette = recette.recherche("<h2 class=\"card-title\"><a href=\"", "\"", true);
-
-				for (String myRecette : listRecette) {
-					allRecettes.get(nbrRecette % nbrThread).add(myRecette);
-					nbrRecette++;
-				}
-
-				if (nbr == 1) {
-					listRecetteFirst = listRecette;
-				} else if (listRecetteFirst.get(0).equals(listRecette.get(0))) {
-					break;
-				}
-
-				System.out.println(categorie + "?page=" + nbr);
-				nbr++;
-			}
-
-		}
+		String codeHtml = scrap.getCodeHtml("https://www.750g.com/tartelettes-aux-pralines-roses-r43661.htm");
+		RecettesCuisine recette = new RecettesCuisine(codeHtml);
+		recette.rechercheAll();
+		
+		
+//		new RecettesCuisine(scrap.getCodeHtml("https://www.750g.com/bugnes-aux-amandes-avec-leurs-creme-citron-gingembre-et-vanille-r80564.htm"));
+		
+//		ScrappingWeb scrap = new ScrappingWeb();
+//
+//		for (int i = 0; i <= nbrThread; i++) {
+//			allRecettes.add(new ArrayList<>());
+//		}
+//
+//		for (String categorie : categiriesCuisine) {
+//
+//			int nbr = 1;
+//			int nbrRecette = 0;
+//
+//			while (true) {
+//
+//				String codeHtml = scrap.getCodeHtml(categorie + "?page=" + nbr);
+//				RecettesCuisine recette = new RecettesCuisine(codeHtml);
+//				listRecette = recette.recherche("<h2 class=\"card-title\"><a href=\"", "\"", true);
+//
+//				for (String myRecette : listRecette) {
+//					allRecettes.get(nbrRecette % nbrThread).add(myRecette);
+//					nbrRecette++;
+//				}
+//
+//				if (nbr == 1) {
+//					listRecetteFirst = listRecette;
+//				} else if (listRecetteFirst.get(0).equals(listRecette.get(0))) {
+//					break;
+//				}
+//
+//				System.out.println(categorie + "?page=" + nbr);
+//				nbr++;
+//			}
+//
+//		}
 
 	}
 
