@@ -23,8 +23,8 @@ public class RecettesCuisine {
 
 	private ArrayList<String> ingredients = new ArrayList<>();
 	private ArrayList<String> materiels = new ArrayList<>();
-	private ArrayList<String[]> imagesIngredients = new ArrayList<>();
-	private ArrayList<String[]> imagesMateriels = new ArrayList<>();
+	private ArrayList<ArrayList<String>> imagesIngredients = new ArrayList<>();
+	private ArrayList<ArrayList<String>> imagesMateriels = new ArrayList<>();
 
 	private String tempsPreparation;
 	private String tempsCuisson;
@@ -62,19 +62,19 @@ public class RecettesCuisine {
 		return nombreDePersonnes;
 	}
 
-	public List<String> getIngredients() {
+	public ArrayList<String> getIngredients() {
 		return ingredients;
 	}
 
-	public List<String> getMateriels() {
+	public ArrayList<String> getMateriels() {
 		return materiels;
 	}
 
-	public List<String[]> getImagesIngredients() {
+	public ArrayList<ArrayList<String>> getImagesIngredients() {
 		return imagesIngredients;
 	}
 
-	public List<String[]> getImagesMateriels() {
+	public ArrayList<ArrayList<String>> getImagesMateriels() {
 		return imagesMateriels;
 	}
 
@@ -110,7 +110,7 @@ public class RecettesCuisine {
 		this.findTempsPreparationCuissonAttente();
 		this.findEtapes();
 
-		this.afficheResultat();
+//		this.afficheResultat();
 	}
 
 	public String recherche(String rechercheStart, String rechercheEnd) {
@@ -162,7 +162,7 @@ public class RecettesCuisine {
 	private void findNoteAvie() {
 
 		note = recherche("<span class=\"u-bold\">", "</span>");
-		avis = recherche("</span><span class=\"rating-votes\">", "avis         </span>");
+		avis = recherche("</span><span class=\"rating-votes\">", "avis         </span>").replace(" ", "");
 	}
 
 	private void findInfo() {
@@ -207,12 +207,17 @@ public class RecettesCuisine {
 				post = savePost;
 				break;
 			}
+			
+			if(!urlImg.equals("/img/partner/logo-pourdebon.png")) {
+				ingredients.add(resultat);
+				ArrayList<String> img = new ArrayList<>();
+				img.add(urlImg);
+				img.add(nomImg);
 
-			ingredients.add(resultat);
+				imagesIngredients.add(img);
+			}
 
-			String[] img = { urlImg, nomImg };
-
-			imagesIngredients.add(img);
+		
 		}
 	}
 
@@ -243,7 +248,9 @@ public class RecettesCuisine {
 
 				materiels.add(resultat);
 
-				String[] img = { urlImg, nomImg };
+				ArrayList<String> img = new ArrayList<>();
+				img.add(urlImg);
+				img.add(nomImg);
 
 				imagesMateriels.add(img);
 			}
@@ -300,15 +307,15 @@ public class RecettesCuisine {
 		for (int n = 0; n < ingredients.size(); n++) {
 
 			System.out.print("ingredient : " + ingredients.get(n) + " ,  ");
-			System.out.print("image : " + imagesIngredients.get(n)[0] + " ,  ");
-			System.out.println("nom de l'image : " + imagesIngredients.get(n)[1]);
+			System.out.print("image : " + imagesIngredients.get(n).get(0) + " ,  ");
+			System.out.println("nom de l'image : " + imagesIngredients.get(n).get(1));
 		}
 
 		for (int k = 0; k < materiels.size(); k++) {
 
 			System.out.print("materiel : " + materiels.get(k) + " ,  ");
-			System.out.print("image : " + imagesMateriels.get(k)[0] + " ,  ");
-			System.out.println("nom de l'image : " + imagesMateriels.get(k)[1]);
+			System.out.print("image : " + imagesMateriels.get(k).get(0) + " ,  ");
+			System.out.println("nom de l'image : " + imagesMateriels.get(k).get(1));
 		}
 
 		System.out.print("temps de préparation : " + tempsPreparation + " ,  ");

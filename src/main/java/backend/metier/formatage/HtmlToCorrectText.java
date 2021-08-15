@@ -14,8 +14,8 @@ public class HtmlToCorrectText {
 			{ "Ù", "&Ugrave;" }, { "ú", "&uacute;" }, { "Ú", "&Uacute;" }, { "û", "&ucirc;" }, { "Û", "&Ucirc;" },
 			{ "ü", "&uuml;" }, { "Ü", "&Uuml;" }, { "ñ", "&ntilde;" }, { "Ñ", "&Ntilde;" }, { "ý", "&yacute;" },
 			{ "Ý", "&Yacute;espace insécable" }, { " ", "<br>" }, { "…", "&hellip;" }, { "!", "!" }, { "¡", "&iexcl;" },
-			{ "?", "?" }, { "¿", "&iquest;" }, { "•", "&bull;" }, { "&", "&amp;" }, { "'", "&#039" },
-			{ "-", "&mdash;" }, { "-", "&ndash;" }, { "¶", "&para;" }, { "§", "&sect;" }, { "‡", "&Dagger" },
+			{ "?", "?" }, { "¿", "&iquest;" }, { "•", "&bull;" }, { "&", "&amp;" }, { "'", "&#039;" },
+			{ "-", "&mdash;" }, { "-", "&ndash;" }, { "¶", "&para;" }, { "§", "&sect;" }, { "‡", "&Dagger;" },
 			{ "†", "&dagger" }, { "←", "&larr;" }, { "↑", "&uarr;" }, { "→", "&rarr;" }, { "↓", "&darr;" },
 			{ "&", "&amp;" }, { "\"", "&laquo;" }, { "\"", "&raquo;" }, { "'", "&lsquo;" }, { "'", "&rsquo;" },
 			{ "\"", "&ldquo;" }, { "\"", "&rdquo;" }, { "‹", "&lsaquo;" }, { "›", "&rsaquo;" }, { "‚", "&sbquo;" },
@@ -23,7 +23,8 @@ public class HtmlToCorrectText {
 			{ "™", "&trade;" }, { "®", "&reg;" }, { "+", "+" }, { "×", "&times;" }, { "±", "&plusmn;" }, { "%", "%" },
 			{ "−", "&minus;" }, { "÷", "&divide;" }, { "⁄", "&frasl;" }, { "=", "=" }, { "≡", "&equiv;" },
 			{ "<", "&lt;" }, { "≤", "&le;" }, { "≠", "&ne;" }, { "≈", "&asymp;" }, { ">", "&gt;" }, { "≥", "&ge;" },
-			{ "½", "&frac12;" }, { "¼", "&frac14;" }, { "¾", "&frac34;" } };
+			{ "½", "&frac12;" }, { "¼", "&frac14;" }, { "¾", "&frac34;" }, { "°", "&deg;" },{"ç","&ccedil;"},
+			{"œ","&oelig;"}};
 
 	public String changeCode(String codeHtml) {
 		

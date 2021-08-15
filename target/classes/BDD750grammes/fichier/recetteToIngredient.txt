@@ -1,0 +1,322 @@
+0,0,250 g de farine de blé (T45)
+0,1,80 g de beurre
+0,2,40 g de sucre en poudre ou sucre semoule
+0,3,2 c. à s. de lait
+0,4,1 c. à s. d'eau de fleur d'oranger
+0,5,10 g de levure de boulanger fraîche
+0,6,1 c. à c. de rhum ambré
+0,7,1 pincée de sel ou sel fin
+0,8,1 l d'huile de tournesol
+0,9,Sucre glace
+1,10,375 g de farine
+1,11,50 g de sucre
+1,12,3 oeufs
+1,7,1 pincée de sel ou sel fin
+1,13,Fleur d'oranger (facultatif) ou ou autre chose
+2,10,500 g de farine
+2,1,125 g de beurre
+2,14,1 sachet de levure
+2,7,5 g de sel ou sel fin
+2,9,Sucre glace
+2,15,Huile de friture
+3,16,30 cl de Crème Fleurette Entière Elle & Vire
+3,7,11g de sel
+3,17,Le zeste d'un citron
+3,18,1/2 c à c de gingembre en poudre 
+3,19,3 jaunes d'œufs
+3,11,40g de sucre
+3,20,De l'huile
+3,21,2 c à s d'amandes effilées
+3,11,40g de sucre
+3,12,2 œufs
+3,10,300g de farine
+3,22,4 gouttes d'extrait de citron
+3,17,Le zeste d'un citron
+4,23,1 verre de rhum
+4,14,1 sachet de levure
+4,12,2 oeufs
+4,7,1 pincée de sel ou sel fin
+4,1,50 g de beurre pommade
+4,2,40 g de sucre en poudre ou sucre semoule
+4,24,250 g de farine de blé blanche (T55)
+5,10,500 g de farine
+5,1,100 g de beurre
+5,25,25 g de levure sèche Déshydratés SAF ou Cube de levure de boulanger
+5,4,10 cl d'eau de fleur d'oranger
+5,12,4 oeufs
+5,15,1 l d'huile de friture Frial , Végétaline ou Végétaline
+5,7,1 pincée de sel ou sel fin
+5,9,Sucre glace
+6,2,1 c à c de sucre poudre
+6,9,1 c à s de sucre glace
+6,17,1 zeste de citron
+6,26,2/4 sachet de levure chimique
+6,1,100g de beurre mou
+6,12,4 œufs
+6,10,350g de farine
+7,27,1 sachet de sucre vanillé
+7,15,1 l d'huile de friture
+7,14,1 sachet de levure
+7,11,15 g de sucre
+7,12,3 oeufs
+7,1,75 g de beurre fondu
+7,10,300 g de farine
+8,12,5 oeufs
+8,10,500 g de farine
+8,1,100 g de beurre mou
+8,28,1 citron bio
+8,9,Sucre glace
+8,26,0,5 sachet de levure chimique
+8,6,2 c. à s. de rhum ambré
+8,7,Sel ou sel fin
+8,15,Huile de friture
+9,10,500 g de farine
+9,11,100 g de sucre
+9,1,100 g de beurre mou
+9,3,0,5 verre de lait
+9,17,1 zeste de citron ou 1 zeste d'orange
+9,26,0,5 sachet de levure chimique
+9,7,0,5 c. à c. de sel ou sel fin
+10,10,500 g de farine
+10,29,1 orange
+10,2,100 g de sucre en poudre ou sucre semoule
+10,1,100 g de beurre ramolli
+10,28,1 citron
+10,3,0,5 verre de lait
+10,9,4 c. à s. de sucre glace
+10,7,1 pincée de sel ou sel fin
+11,20,1 huile
+11,15,1 l d'huile de friture
+11,9,Sucre glace
+11,12,5 oeufs
+11,26,1 c. à c. de levure chimique
+11,7,1 c. à c. de sel ou sel fin
+11,27,1 sachet de sucre vanillé
+11,10,500 g de farine tamisée
+12,26,0,5 sachet de levure chimique
+12,15,Huile de friture
+12,10,700 g de farine
+12,11,200 g de sucre
+12,28,3 citrons
+12,12,4 oeufs
+13,10,500 g de farine
+13,13,3 c. à s. de fleur d'oranger ou rhum
+13,11,100 g de sucre
+13,12,4 oeufs
+13,26,0,5 sachet de levure chimique
+14,28,0,5 citron non traité
+14,23,1 c. à s. de rhum
+14,9,Sucre glace
+14,7,1 pincée de sel ou sel fin
+14,1,50 g de beurre
+14,12,3 oeufs
+14,11,50 g de sucre
+14,10,250 g de farine
+15,30,8 cl d'eau tiède
+15,15,Huile de friture
+15,9,Sucre glace
+15,1,125 g de beurre
+15,12,3 oeufs
+15,14,11 g de levure
+15,7,5 g de sel ou sel fin
+15,10,500 g de farine
+16,4,Eau de fleur d'oranger
+16,20,1,5 l d'huile
+16,9,Sucre glace
+16,7,1 pincée de sel ou sel fin
+16,5,10 g de levure de boulanger fraîche
+16,11,50 g de sucre
+16,1,35 g de beurre
+16,12,2 oeufs entiers
+16,10,250 g de farine
+17,14,1 sachet de levure
+17,20,40 ml d'huile
+17,7,1 pincée de sel ou sel fin
+17,9,Sucre glace
+17,15,Huile de friture
+17,17,1 zeste de citron râpé
+17,13,1 c. à c. de fleur d'oranger
+17,2,150 g de sucre en poudre ou sucre semoule
+17,12,4 oeufs
+17,3,100 ml de lait
+17,20,40 ml d'huile
+17,23,1 c. à s. de rhum
+17,10,500 g de farine
+18,20,1 cuillère à soupe d'huile
+18,10,150 g de farine
+19,12,3 oeufs
+19,4,1 c. à s. d'eau de fleur d'oranger
+19,1,60 g de beurre
+19,7,5 g de sel ou sel fin
+19,11,50 g de sucre
+19,10,330 g de farine
+20,14,1 sachet de levure
+20,27,1 sachet de sucre vanillé
+20,31,200 ml de crème liquide
+20,11,8 cuillères de sucre
+20,7,1 pincée de sel
+20,12,4 œufs
+21,3,du lait
+21,9,sucre glace
+21,2,200g de sucre poudre
+21,7,1 pincée de sel
+21,1,250g de beurre
+21,19,6 jaunes d'œuf
+21,32,1 cube de levure de boulanger
+21,10,1kg de farine
+22,27,1 sachet de sucre vanillé
+22,11,6 c. à s. de sucre
+22,7,3 cuillères de sel ou sel fin
+22,12,7 oeufs
+22,32,1 carré de levure de boulanger
+22,1,250 g de beurre
+22,10,1,2 kg de farine
+23,32,0,5 sachet de levure de boulanger
+23,11,50 g de sucre
+23,12,2 oeufs
+23,1,50 g de beurre
+23,10,250 g de farine
+24,31,10 cl de crème liquide
+24,4,Eau de fleur d'oranger
+24,30,5 cl d'eau
+24,7,1 c. à s. de sel ou sel fin
+24,12,4 oeufs
+24,11,100 g de sucre
+24,1,125 g de beurre
+24,32,2 sachets de levure de boulanger
+24,27,3 sachets de sucre vanillé
+24,10,500 g de farine
+25,7,1 pincée de sel
+25,33,200 ml de lait demi-écrémé
+25,17,Zestes de citron (1)
+25,27,1 sachet de sucre vanillé
+25,12,2 œufs
+25,26,1 sachet de levure chimique
+25,24,500 gr de farine t 45
+25,23,2 c.à.s de rhum
+25,15,Huile pour friture
+25,9,Sucre glace ou sucre en poudre (au choix)
+26,26,1/2 paquet de levure chimique
+26,20,Huile pour la cuisson
+26,10,2 verres de farine
+26,34,Une c à s de crème fraîche
+26,19,3 jaunes d'œufs
+26,11,1 c à s de sucre
+26,3,Un demi-verre de lait
+27,14,1 sachet de levure
+27,20,4 cl d'huile
+27,7,1 pincée de sel ou sel fin
+27,9,Sucre glace
+27,15,Huile de friture
+27,17,1 zeste de citron râpé
+27,13,1 c. à c. de fleur d'oranger
+27,2,150 g de sucre en poudre ou sucre semoule
+27,12,4 oeufs
+27,3,10 cl de lait
+27,20,4 cl d'huile
+27,23,1 c. à s. de rhum
+27,10,500 g de farine
+28,35,5 œufs
+28,9,Sucre glace
+28,7,8 g de sel
+28,26,1 sachet de levure chimique (facultatif)
+28,1,250g de beurre
+28,2,75g de sucre semoule
+28,10,500g de farine
+29,15,huile pour la friture
+29,9,sucre glace pour saupoudrer
+29,7,pincée de sel
+29,36,5 cuillères à soupe de crème fraîche épaisse
+29,10,300 gr de farine
+30,37,un peu d'eau tiède
+30,32,1/2 cube de levure de boulanger
+30,10,125 g de farine
+30,1,100 g de beurre
+30,12,3 œufs
+30,11,50 g de sucre
+30,7,10 g de sel
+30,10,375 g de farine
+31,7,1 pincée de sel ou sel fin
+31,38,1 g de cannelle
+31,17,1 zeste de citron
+31,9,50 g de sucre glace
+31,13,10 g de fleur d'oranger
+31,39,20 g d'extrait de vanille ou vanille liquide
+31,11,80 g de sucre
+31,1,50 g de beurre
+31,12,2 oeufs
+31,26,3 g de levure chimique
+31,10,250 g de farine
+32,4,Eau de fleur d'oranger
+32,3,Un peu de lait
+32,40,1 zeste d'orange
+32,27,1 sachet de sucre vanillé
+32,1,250g de beurre fondu
+32,11,100g de sucre fin
+32,12,8 œufs entiers
+32,10,1kg de farine
+33,7,1 pincée de sel
+33,15,Huile de friture
+33,9,Sucre glace
+33,2,20g de sucre en poudre
+33,12,3 œufs
+33,10,300g de farine
+34,24,400 g de farine de blé blanche (T55)
+34,41,100 g de poudre d'amandes
+34,42,50 g de sucre de canne roux ou cassonade
+34,43,20 g d'huile de noisette
+34,5,20 g de levure de boulanger fraîche
+34,12,1 oeuf
+34,7,1 c. à c. de sel ou sel fin
+35,32,30 g de levure de boulanger
+35,1,100 g de beurre
+35,11,115 g de sucre
+35,12,2 oeufs
+35,10,500 g de farine
+36,44,600g environ de farine Francine or+ pour pétrir
+36,34,25 cl de crème fraîche
+36,2,100g de sucre semoule
+36,12,4 œufs
+37,14,1 sachet de levure
+37,30,4 cl d'eau tiède
+37,11,40 g de sucre
+37,1,120 g de beurre
+37,12,3 oeufs
+37,10,500 g de farine
+38,15,Huile de friture
+38,9,Sucre glace
+38,7,Sel ou sel fin
+38,2,50 g de sucre en poudre ou sucre semoule
+38,23,1 c. à s. de rhum
+38,1,50 g de beurre mou
+38,12,3 oeufs
+38,10,250 g de farine
+39,12,4 œufs
+39,26,1 sachet de levure chimique (11 g)
+39,31,20 cl de crème liquide UHT
+39,1,50g de beurre
+39,7,2 grosses pincées de sel
+39,2,80g de sucre en poudre
+39,15,Huile de friture
+39,10,Farine pour le plan de travail
+39,1,100g de beurre très mou
+39,10,500g de farine
+39,12,1 œuf
+39,19,1 jaune
+40,44,20g de fleur d'oranger
+40,17,1 zeste de citron
+40,1,250g de beurre
+40,11,80g de sucre
+40,14,25g de levure
+40,12,5 œufs
+40,7,10g de sel
+40,10,500g de farine
+41,45,250 g de farine
+41,1,50 g de beurre
+41,2,50 g de sucre en poudre ou sucre semoule
+41,26,1 c. à c. de levure chimique
+41,28,1 citron bio
+41,6,3 cl de rhum ambré
+41,7,Sel ou sel fin
+41,15,80 cl d'huile de friture
+41,9,80 g de sucre glace

@@ -8,6 +8,7 @@ import java.io.*;
 import javax.net.ssl.HttpsURLConnection;
 
 import backend.metier.bdd.RecettesCuisine;
+import backend.metier.fichier.WriteBDD;
 import backend.metier.formatage.HtmlToCorrectText;
 
 public class ScrappingWeb extends Thread {
@@ -16,19 +17,26 @@ public class ScrappingWeb extends Thread {
 	
 	private HtmlToCorrectText htmlToCorrectText = new HtmlToCorrectText();
 
-	public ScrappingWeb(ArrayList<String> urlList) {
+	private WriteBDD writeBDD;
+	private int nbr=0;
+
+	public ScrappingWeb(ArrayList<String> urlList,WriteBDD writeBDD) {
 		this.urlList = urlList;
+		this.writeBDD = writeBDD;
 	}
 	
-	public ScrappingWeb() {
+	public ScrappingWeb( ) {
 	}
 
 
 	public void run() {
 		
+		long chrono = System.currentTimeMillis();
+		
 
 		for (String url : urlList) {
-			System.out.println(url);
+			nbr++;
+			System.out.println(nbr+" : "+url);
 
 			String codeHtml = this.getCodeHtml(url);
 			
@@ -37,12 +45,19 @@ public class ScrappingWeb extends Thread {
 				RecettesCuisine recette = new RecettesCuisine(codeHtml);
 
 				recette.rechercheAll();
-				System.out.println(url);
+				this.writeBDD.add(recette);
 
 			} else {
 				System.out.println("erreur de communication avec le site : " +url);
 			}
 		}
+		try {
+			this.writeBDD.writeFile("src//main//resources//BDD750grammes//fichier");
+			System.out.println("fin en "+(System.currentTimeMillis()-chrono)+" ms pour "+nbr+"  pages");
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} 
 
 	}
 

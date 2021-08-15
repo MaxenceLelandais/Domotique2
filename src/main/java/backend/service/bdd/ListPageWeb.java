@@ -4,63 +4,70 @@ import java.util.ArrayList;
 import java.io.*;
 
 import backend.metier.bdd.RecettesCuisine;
+import backend.metier.fichier.WriteBDD;
 
 public class ListPageWeb {
 
 	private ArrayList<String> categiriesCuisine = lectureFichier("src//main//resources//BDD750grammes//listeLien.txt");
 	private ArrayList<String> listRecette;
-	private ArrayList<String> listRecetteFirst = new ArrayList<>();
+	private String recetteFirst = "";
 
-	private int nbrThread = 10;
+	private int nbrThread = 1;
 	private ArrayList<ArrayList<String>> allRecettes = new ArrayList<>();
 
 	private int numThread;
 
-	public ListPageWeb() {
-		
-		
+	private WriteBDD writeBDD = new WriteBDD();
+
+	public ListPageWeb() throws FileNotFoundException {
+
+//		ScrappingWeb scrap = new ScrappingWeb();
+//		String codeHtml = scrap.getCodeHtml("https://www.750g.com/bugnes-r7379.htm");
+//		RecettesCuisine recette = new RecettesCuisine(codeHtml);
+//		recette.rechercheAll();
+//		WriteBDD a = new WriteBDD();
+//		a.add(recette);
+//		a.writeFile("src//main//resources//BDD750grammes//fichier");
+
+//		new RecettesCuisine(scrap.getCodeHtml("https://www.750g.com/bugnes-aux-amandes-avec-leurs-creme-citron-gingembre-et-vanille-r80564.htm"));
 
 		ScrappingWeb scrap = new ScrappingWeb();
-		String codeHtml = scrap.getCodeHtml("https://www.750g.com/tartelettes-aux-pralines-roses-r43661.htm");
-		RecettesCuisine recette = new RecettesCuisine(codeHtml);
-		recette.rechercheAll();
-		
-		
-//		new RecettesCuisine(scrap.getCodeHtml("https://www.750g.com/bugnes-aux-amandes-avec-leurs-creme-citron-gingembre-et-vanille-r80564.htm"));
-		
-//		ScrappingWeb scrap = new ScrappingWeb();
-//
-//		for (int i = 0; i <= nbrThread; i++) {
-//			allRecettes.add(new ArrayList<>());
-//		}
-//
-//		for (String categorie : categiriesCuisine) {
-//
-//			int nbr = 1;
-//			int nbrRecette = 0;
-//
-//			while (true) {
-//
-//				String codeHtml = scrap.getCodeHtml(categorie + "?page=" + nbr);
-//				RecettesCuisine recette = new RecettesCuisine(codeHtml);
-//				listRecette = recette.recherche("<h2 class=\"card-title\"><a href=\"", "\"", true);
-//
-//				for (String myRecette : listRecette) {
-//					allRecettes.get(nbrRecette % nbrThread).add(myRecette);
-//					nbrRecette++;
-//				}
-//
-//				if (nbr == 1) {
-//					listRecetteFirst = listRecette;
-//				} else if (listRecetteFirst.get(0).equals(listRecette.get(0))) {
-//					break;
-//				}
-//
-//				System.out.println(categorie + "?page=" + nbr);
-//				nbr++;
-//			}
-//
-//		}
+
+		for (int i = 0; i <= nbrThread; i++) {
+			allRecettes.add(new ArrayList<>());
+		}
+
+		for (String categorie : categiriesCuisine) {
+
+			int nbr = 1;
+			int nbrRecette = 0;
+
+			while (true) {
+
+				String codeHtml = scrap.getCodeHtml(categorie + "?page=" + nbr);
+				RecettesCuisine recette = new RecettesCuisine(codeHtml);
+				listRecette = recette.recherche("<h2 class=\"card-title\"><a href=\"", "\"", true);
+
+				for (String myRecette : listRecette) {
+					if (recetteFirst.equals(myRecette)) {
+						break;
+					}
+					allRecettes.get(nbrRecette % nbrThread).add(myRecette);
+					nbrRecette++;
+
+				}
+
+				if (nbr == 1) {
+					recetteFirst = listRecette.get(0);
+				} else if (recetteFirst.equals(listRecette.get(0))) {
+					break;
+				}
+
+				System.out.println(categorie + "?page=" + nbr);
+				nbr++;
+			}
+
+		}
 
 	}
 
@@ -73,7 +80,7 @@ public class ListPageWeb {
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
-			ScrappingWeb a = new ScrappingWeb(allRecettes.get(numThread));
+			ScrappingWeb a = new ScrappingWeb(allRecettes.get(numThread), writeBDD);
 			a.start();
 
 			numThread++;

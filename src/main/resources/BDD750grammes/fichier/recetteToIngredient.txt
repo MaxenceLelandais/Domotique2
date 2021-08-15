@@ -1,0 +1,2925 @@
+0,0,4 blancs de poulet
+0,1,3 c. à s. d'huile d'olive
+0,2,2 gousses d'ail pelées et écrasées
+0,3,2 citrons (zeste et jus)
+0,4,Persil
+0,5,Poivre du moulin
+0,6,Sel ou sel fin
+1,7,4 filets de poulet avec peau, cuit fumé Jean Routhiau
+1,8,2 carottes
+1,9,4 pommes de terre
+1,10,2 navets
+1,11,1 oignon
+1,12,1,5 l de bouillon de légumes
+1,13,Gros sel
+1,14,Poivre 5 baies
+1,15,Un petit pot de moutarde
+1,16,Coriandre en graines
+1,14,Poivre 5 baies
+2,0,4 blancs de poulet
+2,17,60 g de parmesan
+2,18,4 c. à s. de mayonnaise de Dijon Amora
+2,19,2 c. à s. de chapelure
+3,20,Sel
+3,21,Poivre
+3,22,150 g de beurre
+3,23,1 échalote hachée
+4,0,750 g de blancs de poulet
+4,2,3 gousses d'ail
+4,1,3 c. à s. d'huile d'olive
+4,24,0,5 citron vert
+4,25,12 g de coriandre
+4,4,12 g de persil
+4,26,3 c. à c. de paprika
+4,27,3 c. à c. de cumin
+4,6,Sel ou sel fin
+4,28,300 g de boulgour
+5,29,4 filets de poulet
+5,19,8 c. à s. de chapelure
+5,1,2 c. à s. d'huile d'olive
+5,15,2 c. à s. de moutarde
+5,30,2 c. à c. d'epices mexicaines
+5,6,Sel ou sel fin
+5,31,300 g de couscous
+6,0,250 g de blancs de poulet
+6,32,200 g de nouilles aux oeufs Suzi Wan®
+6,33,1 poignée de pousse de soja
+6,23,1 échalote
+6,1,2 c. à s. d'huile d'olive
+6,4,Brin de persil
+6,24,1 citron vert
+6,34,Tomate cerise pour la déco
+7,11,4 oignons
+7,35,2 tomates
+7,3,0,5 citron
+7,36,2 c. à s. de philadelphia
+7,29,4 filets de filets de poulet
+8,37,1 baguette
+8,38,14 lamelles de cheddar
+8,35,4 tomates
+8,0,4 blancs de poulet
+8,39,Olive verte ou olives noires
+8,1,Huile d'olive
+8,6,Sel ou sel fin
+8,5,Poivre du moulin
+8,40,Thym
+8,41,Basilic frais
+9,42,1 laitue
+9,29,1 filet de filets de poulet
+9,35,1 tomate
+9,43,1 oeuf
+9,3,1 citron
+9,17,Copeau de parmesan
+9,44,Parmesan râpé
+9,15,Moutarde
+9,45,Sauce Worcestershire
+9,1,20 cl d'huile d'olive
+9,46,1 c. à s. de vinaigre blanc ou vinaigre d'alcool
+9,47,0,5 c. à c. de sucre en poudre ou sucre semoule
+9,48,Croûton
+9,6,Sel ou sel fin
+9,21,Poivre
+10,29,4 filets de filets de poulet
+10,11,1 oignon
+10,49,0,5 poivron rouge
+10,50,Piment d'Espelette
+10,6,Sel ou sel fin
+10,21,Poivre
+11,29,4 filets de filets de poulet
+11,36,150 g de philadelphia
+11,51,1 petit bocal de tomates confites
+11,41,Basilic frais
+11,52,Miel liquide
+12,0,150 g de blancs de poulet
+12,53,300 g de pâtes
+12,35,400 g de tomates
+12,2,2 gousses d'ail
+12,11,1 oignon
+12,41,0,5 bouquet de basilic
+12,36,175 g de philadelphia
+12,1,2 c. à c. d'huile d'olive
+13,54,1 paquet de céréales
+13,29,4 filets de filets de poulet
+13,43,1 oeuf
+13,55,100 g de farine
+13,26,1 c. à c. de paprika
+13,56,1 c. à c. de lait
+13,57,Huile de friture
+13,6,Sel ou sel fin
+13,21,Poivre
+13,58,Ketchup
+14,29,4 filets de poulet
+14,59,4 tranches de jambon
+14,60,8 tranches d'emmental
+14,43,1 oeuf
+14,19,Chapelure
+14,6,Sel ou sel fin
+14,21,Poivre
+15,61,4 blancs de poulet
+15,3,2 citrons
+15,1,4 c à s d'huile d'olive
+15,62,Mélange 5 baies en moulin
+15,63,Herbes de Provence
+15,6,Sel
+15,5,Poivre du moulin
+16,0,250 g de blancs de poulet
+16,64,2 c. à s. d'huile de sésame
+16,65,2 poivrons verts
+16,24,1 citron vert
+16,11,1 oignon
+17,66,1 salade type roquette
+17,18,Mayonnaise
+17,67,Curry
+17,6,Sel
+17,21,Poivre
+17,55,1 cuillère à soupe de farine
+17,0,2 blancs de poulet
+17,11,1 oignon
+17,35,1 tomate
+18,29,4 filets de filets de poulet
+18,2,1 gousse d'ail
+18,68,1 petit morceau de gingembre
+18,69,1,5 c. à s. d'huile végétale
+18,70,2 c. à s. de sauce soja
+18,71,2 c. à s. de vin blanc sec ou 2 cuil. à soupe d'eau
+18,72,1 c. à s. rase(s) de sucre de canne roux ou cassonade
+18,73,1 c. à c. de mélange d'épices
+18,42,1 laitue
+19,0,400 g de blancs de poulet
+19,74,1 potimarron (petit)
+19,75,40 cl de lait de coco Suzi Wan
+19,11,1 oignon haché
+19,2,1 gousse d'ail hachées
+19,76,1 c. à s. de curry en poudre
+19,25,2 c. à s. de coriandre
+19,1,3 c. à s. d'huile d'olive
+19,77,1 c. à c. de purée de piment Suzi Wan
+19,78,1 c. à c. de curcuma
+19,6,Sel ou sel fin
+20,0,4 blancs de poulet
+20,79,30 g de fécule de maïs Maïzena
+20,80,Huile de tournesol
+20,81,25 g de sucre
+20,82,24 cl d'eau
+20,70,5 c. à s. de sauce soja
+20,83,3 c. à s. de miel
+20,84,2 c. à s. de sauce pimentée Sriracha
+20,79,2 c. à s. de fécule de maïs Maïzena
+20,82,2 c. à s. d'eau froide
+20,2,1 c. à s. d'ail haché
+20,85,300 g de riz cuit
+21,0,250 g de blancs de poulet
+21,86,100 g de nouilles japonaises (ramen ou soba)
+21,8,100 g de carottes en julienne
+21,49,Poivron rouge coupé en fines lamelles ou 1 poivron vert coupé en fines lamelles
+21,75,10 cl de lait de coco
+21,82,100 cl d'eau
+21,87,1 c. à s. de pâte de curry jaune Thaï ou 1 c à s de pâte de curry thaï vert
+21,88,1 c. à s. de jus de citron vert
+21,69,1 c. à s. d'huile végétale
+21,25,4 c. à s. de coriandre
+21,89,Cacahuète grillée pour la décoration
+21,6,Sel ou sel fin
+21,21,Poivre
+22,90,de l'estragon frais ou surgelé
+22,0,2 blancs de poulet
+23,0,Blanc de poulet
+23,91,Feuille de feuille de brick ou à pastilla
+23,11,Oignon
+23,92,Champignon
+23,2,Ail
+23,4,Persil
+23,68,1 pincée de gingembre
+23,93,1 pincée de piment doux
+23,6,Sel ou sel fin
+23,21,Poivre
+24,0,4 blancs de poulet
+24,94,30 cl de crème liquide
+24,80,2 c. à s. d'huile de tournesol
+24,15,2 c. à s. de moutarde
+24,2,1 gousse d'ail
+24,11,1 oignon
+24,35,2 tomates
+24,6,Sel ou sel fin
+24,21,Poivre
+25,95,500 g de pâtes feuilletées
+25,29,4 filets de filets de poulet
+25,96,200 g de cèpes
+25,97,1 verre de vin blanc
+25,98,15 cl de crème fraîche épaisse
+25,43,1 oeuf battu
+25,2,2 gousses d'ail finement hachées
+25,15,2 c. à s. de moutarde
+25,1,Huile d'olive
+25,6,Sel ou sel fin
+25,21,Poivre
+26,0,4 blancs de poulet coupés en dés
+26,85,300 g de riz
+26,81,25 g de sucre
+26,82,24 cl d'eau
+26,99,5 c. à s. de sauce soja salée Suzi Wan®
+26,83,3 c. à s. de miel
+26,79,2 c. à s. de fécule de maïs
+26,82,2 c. à s. d'eau froide
+26,2,1 c. à s. d'ail haché
+26,100,1 c. à s. de graines de sésame
+26,80,Huile de tournesol
+27,101,4 bouchée feuilletée à garnir ou vol au vent (pour bouchée à la reine)
+27,0,1 blanc de poulet
+27,102,10 champignons de Paris
+27,55,50 g de farine
+27,56,30 cl de lait
+27,94,20 cl de crème liquide
+27,1,1 filet d'huile d'olive
+27,103,1 pincée de noix de muscade
+27,6,Sel ou sel fin
+27,21,Poivre
+28,104,1 petite poignée d'amande concassée (petites)
+28,105,2 c. à s. de concentré de tomates
+28,11,2 oignons
+28,106,12 cl de crème fraîche
+28,25,1 botte de coriandre
+28,6,Sel ou sel fin
+28,24,2 citrons verts
+28,29,4 filets de filets de poulet
+28,107,200 g de yaourt brassé natures
+28,26,1 c. à s. de paprika
+28,1,1 huile d'olive
+28,68,7 cm de gingembre
+28,73,0,5 c. à c. de mélange d'épices
+28,108,2 c. à c. de cumin en poudre
+28,109,3 c. à s. de garam masala
+28,110,2 c. à c. de coriandre en poudre ou coriandre moulue
+28,2,6 gousses d'ail
+29,0,500 g de blancs de poulet
+29,111,12,5 cl de saké
+29,70,12,5 cl de sauce soja
+29,112,6 cl de mirin
+29,81,2 c. à s. de sucre
+30,29,1 filet de filets de poulet
+30,43,3 oeufs durs
+30,34,Tomate cerise
+30,113,Salade verte
+30,48,Croûton
+30,17,Parmesan
+30,114,Wasabi en grain
+30,24,Citron vert
+30,1,Huile d'olive
+30,6,1 pincée de sel ou sel fin
+31,85,4 bols de riz
+31,115,Lamelle de nori
+31,116,50 cl de bouillon de volaille
+31,43,8 oeufs
+31,117,1 poireau
+31,0,2 blancs de poulet gros
+31,118,2 c. à s. de sauce soja sucrée
+32,0,2 blancs de poulet
+32,8,100 g de carottes
+32,11,1 oignon
+32,1,Huile d'olive
+32,119,1 bouquet de verveines
+32,6,Sel ou sel fin
+32,21,Poivre
+33,29,4 filets de poulet
+33,69,1 c. à s. d'huile végétale
+33,67,2 c. à c. de curry
+33,6,Sel ou sel fin
+33,105,2 c. à s. de concentré de tomates
+33,120,400 g de tomates pelées concassées
+33,75,30 cl de lait de coco
+33,11,1 oignon
+33,2,1 gousse d'ail
+33,68,1 morceau de gingembre
+33,69,2 c. à s. d'huile végétale
+33,67,1 c. à s. de curry
+33,88,2 c. à s. de jus de citron vert
+33,6,1 c. à c. de sel ou sel fin
+33,121,300 g de riz basmati
+33,25,0,5 bouquet de coriandre
+34,0,2 blancs de poulet
+34,9,4 pommes de terre
+34,94,20 cl de crème liquide
+34,44,Parmesan râpé frais
+34,55,Farine
+34,41,Feuille de basilic
+34,122,Brin de ciboulette
+34,1,Huile d'olive
+34,6,Sel ou sel fin
+34,21,Poivre
+35,0,2 blancs de poulet
+35,123,1 aubergine
+35,124,1 courgette
+35,49,1 poivron rouge
+35,23,1 échalote
+35,1,Huile d'olive
+35,25,1 bouquet de coriandre
+35,122,1 bouquet de ciboulette
+35,6,Sel ou sel fin
+35,21,Poivre
+36,125,de l'huile d'olive
+36,23,2 échalotes
+36,2,1 gousse d'ail
+36,22,10 gr de beurre
+36,126,5 cl de fond de volaille
+36,127,600 gr de petits pois frais (encore en cosse)
+36,8,2 carottes
+36,128,2 blancs de volaille
+37,129,Avocat ou concombre
+37,29,Filet de poulet
+37,130,3 tranches de pain de mie
+37,35,Tomate
+37,131,Bacon
+37,132,Fromage
+37,22,Beurre
+37,42,Laitue
+37,18,Mayonnaise
+38,55,250 g de farine
+38,133,0,5 sachet de levure de boulanger
+38,1,1 c. à s. d'huile d'olive
+38,6,0,5 c. à c. de sel ou sel fin
+38,134,5 c. à s. de sauce tomate
+38,49,0,5 poivron rouge
+38,11,0,5 oignon
+38,0,1 blanc de poulet
+38,135,100 g de mozzarella
+38,25,1 bouquet de coriandre
+38,6,Sel ou sel fin
+38,21,Poivre
+39,136,2 grandes tortillas
+39,137,3 càc de maïs
+39,36,50g de Philadelphia Ail & Fines Herbes Light
+39,29,1 beau filet de poulet cuit, émincé
+40,138,Sel
+40,21,Poivre
+40,122,1/2 botte de ciboulette
+40,139,4 feuilles de laurier
+40,22,50 g de beurre
+40,140,1/2 botte de cerfeuil
+40,141,2 cuil. à soupe d'huile
+40,55,40 g de farine
+40,142,3 jaunes d'œufs
+40,44,50 g de parmesan rapé
+40,22,40 g de beurre
+40,19,50 g de chapelure
+40,0,600 g de blancs de poulet
+41,0,4 blancs de poulet
+41,143,6 c. à s. de vinaigre balsamique
+41,83,4 c. à s. de miel
+41,106,1 petit pot de crème fraîche
+41,22,1 noix de beurre
+41,6,Sel ou sel fin
+41,21,Poivre
+42,144,1 pâte brisée fond de tarte
+42,29,2 filets de filets de poulet Maître Coq
+42,65,1 poivron vert
+42,49,1 poivron rouge
+42,92,150 g de champignons
+42,145,150 g de gruyère rapé
+42,146,200 g de crème fraîche liquide
+42,43,2 oeufs
+42,22,1 noix de beurre
+42,26,1 pincée de paprika
+42,6,Sel ou sel fin
+42,21,Poivre
+43,147,3 escalopes de poulet
+43,43,2 oeufs
+43,19,Chapelure
+43,55,Farine
+43,63,Herbes de Provence ou curry
+43,6,Sel ou sel fin
+44,148,Poivre du moulin
+44,4,Persil
+44,6,Sel
+44,1,Huile d'olive
+44,71,15 cl de vin blanc sec
+44,79,1 c à c de Maïzena
+44,149,150g de Gorgonzola
+44,94,20 cl de crème liquide
+45,124,1 courgette
+45,35,1 tomate
+45,8,1 carotte
+45,150,0,5 poivron
+45,147,2 escalopes de poulet
+45,135,Mozzarella
+45,151,Tapenade ou caviar de tomates séchées
+45,43,1 oeuf
+45,41,3 feuilles de basilic
+46,75,1 petite boîte de lait de coco
+46,68,20g de gingembre frais
+46,1,2 càs d'huile d'olive
+46,41,Basilic ou persil pour la décoration
+46,2,2 gousses d'ail, hachées
+46,36,50g de Philadelphia Nature
+46,6,Sel
+46,21,Poivre
+46,105,1 capsule de concentré de tomates (70g)
+46,35,2 tomates fraîches ou plusieurs tomates cerise
+46,29,2 filets de poulet
+47,152,2 l de bouillon de volaille
+47,153,4 tortillas de blé
+47,0,500 g de blancs de poulet
+47,42,200 g de laitue
+47,154,120 g de raisin secs
+47,155,40 g d'amandes effilées
+47,156,4 c. à s. de chutney de mangue
+47,18,2 c. à s. bombée(s) de mayonnaise Amora
+47,76,2 c. à s. de curry en poudre
+47,157,1 c. à s. bombée(s) de yaourts grecs
+48,36,150 g de philadelphia
+48,0,4 blancs de poulet
+48,158,4 endives
+48,22,1 grosse noix de beurre
+48,4,1 c. à s. de persil haché
+48,159,2 dl de jus de veau
+48,21,Poivre
+49,0,2 blancs de poulet
+49,34,8 tomates cerise
+49,160,4 tranches de pain
+49,102,2 champignons de Paris
+49,161,Salade romaine (prête à l'emploi) ou iceberg ou laitue
+49,1,1 huile d'olive
+49,2,1 gousse d'ail hachées
+49,18,6 c. à s. de mayonnaise Amora
+49,44,2 c. à s. de parmesan râpé
+49,56,2 c. à s. de lait
+49,15,1 c. à c. de moutarde
+49,162,1 c. à s. de jus de citron
+49,6,Sel ou sel fin
+49,21,Poivre
+50,6,Sel
+50,21,Poivre
+50,163,100 g de fromage râpé
+50,43,9 œufs
+51,0,70 g de blancs de poulet
+51,36,200 g de philadelphia
+51,164,500 g d'epinards
+51,8,300 g de carottes
+51,22,40 g de beurre
+51,165,15 cl de bouillon de poule
+51,56,10 cl de lait
+51,166,Estragon
+51,6,Sel ou sel fin
+51,21,Poivre
+52,79,1 c. à s. de fécule de maïs
+52,141,Huile
+52,11,3 c. à s. d'oignons
+52,116,1 cube de bouillon de volaille
+52,70,2 c. à s. de sauce soja
+52,167,1 petite boîte d'ananas
+52,150,1 poivron
+52,0,4 blancs de poulet
+53,79,2 c. à s. de fécule de maïs
+53,1,Huile d'olive
+53,6,Sel ou sel fin
+53,21,Poivre
+53,81,2 c. à s. de sucre
+53,51,5 tomates confites
+53,2,1 gousse d'ail
+53,0,2 blancs de poulet
+53,116,200 ml de bouillon de volaille
+53,143,50 ml de vinaigre balsamique
+53,23,1 échalote
+54,168,250g de riz pour risotto
+54,36,75g de Philadelphia Ail & Fines Herbes Light
+54,1,1 càs d'huile d'olive
+54,22,1/2 càs de beurre
+55,0,2 blancs de poulet
+55,136,2 tortillas
+55,36,60 g de philadelphia Nature Light
+55,34,5 tomates cerise
+55,169,Laitue iceberg
+56,0,5 blancs de poulet
+56,170,Cuisse de poulet
+56,2,4 quartiers d'ail
+56,11,2 oignons
+56,171,100 g d'épices pour colombo
+56,126,2 c. à s. de fond de volaille diluées dans 1L d'eau froide
+56,6,Sel ou sel fin
+56,21,Poivre
+57,29,100g de filet de poulet
+57,129,1 Avocat
+57,35,1 Tomate
+57,172,Petit pain de campagne (ou burger classique)
+58,173,550 g de crevettes grosses
+58,0,500 g de blancs de poulet
+58,174,450 g de tomates pelées
+58,85,400 g de riz
+58,175,4 ciboules ou 4 oignons nouveaux
+58,65,2 poivrons verts
+58,176,250 g de saucisses fumées
+58,177,2 branches de céleri branche
+58,11,1 oignon
+58,2,3 gousses d'ail hachées finement
+58,45,3 c. à s. de sauce Worcestershire
+58,4,2 c. à s. de persil frais hâché
+58,178,1 c. à s. de cajun (mélange)
+58,1,1 c. à s. d'huile d'olive
+58,6,1 c. à s. de sel ou sel fin
+58,40,1 c. à c. de thym
+58,21,Poivre
+59,3,Citron
+59,1,Huile d'olive
+59,179,Romarin
+59,0,6 blancs de poulet
+59,180,1 bûche de bûchettes de chèvre
+59,124,3 courgettes
+60,6,Sel
+60,181,Poivre noir
+60,182,Huit de tournesol (pour la cuisson)
+60,19,150g chapelure
+60,22,100g de beurre
+60,43,1 œuf
+60,56,50 ml du lait
+60,29,4 filets de poulet
+61,2,ail
+61,4,persil
+61,43,4 œufs
+61,19,panure
+62,67,Curry
+62,6,Sel ou sel fin
+62,21,Poivre
+62,1,Huile d'olive
+62,106,25 cl de crème fraîche
+62,11,1 oignon
+62,35,4 tomates
+62,29,2 barquettes de filets de poulet
+63,22,Beurre
+63,6,Sel ou sel fin
+63,21,Poivre
+63,4,Persil
+63,82,1 fond de verre d'eau
+63,83,2 c. à s. de miel
+63,67,Curry
+63,0,4 blancs de poulet
+64,183,50g de pignons de pin
+64,41,2 poignées de feuilles de basilic frais
+64,36,100g de Philadelphia Nature Light
+64,184,8 tranches de jambon de Parme
+64,0,4 gros blancs de poulet
+65,106,2 c. à s. de crème fraîche
+65,6,Sel ou sel fin
+65,21,Poivre
+65,82,1 verre d'eau
+65,97,Vin blanc
+65,67,2 c. à c. de curry
+65,11,2 oignons
+65,55,2 c. à s. de farine
+66,124,1 courgette
+66,185,2 tomates séchées
+66,163,Fromage râpé
+66,186,1 verre de coulis de tomate
+66,0,2 tranches de blancs de poulet
+66,6,Sel ou sel fin
+66,21,Poivre
+67,181,Poivre noir
+67,187,200g de semoule
+67,25,3 càs de coriandre fraîche hachée
+67,36,100g de Philadelphia Nature Light
+67,3,Zeste et jus de 2 citrons
+67,2,2 gousses d'ail, pelées et écrasées
+67,0,4 blancs de poulet
+68,188,2 c à c de paprika
+68,50,1 c à c de piment d'Espelette
+68,6,Du sel
+68,9,200g de pomme de terre à purée
+68,189,Sauce
+68,2,1/3 de gousse d'ail
+68,21,4 tours de moulin à poivre
+68,13,2 pincées de gros sel
+68,1,Un filet d'huile d'olive
+68,50,Une pincée de piment d'Espelette
+68,50,3 pincées de piment d'Espelette
+68,21,5 tours de moulin à poivre
+68,190,Une bonne pincée de fleur de sel
+68,29,2 filets de poulet
+68,1,De l'huile d'olive
+68,63,1 pincée d'herbes de Provence
+68,191,1 c à s de Cognac
+68,1,Un bon filet d'huile d'olive
+68,192,1 pincée de sel de Guérande
+68,193,Marinade
+68,194,Poulet
+69,7,1 magret de canard tranché, fumé au bois de hêtre Jean Routhiau
+69,195,1 sachet de roquette 
+69,8,2 belles carottes
+69,34,Quelques tomates cerises
+69,196,Quelques feuilles de menthe
+69,68,1 morceau de gingembre frais
+69,2,2 gousses d'ail
+69,80,20 cl d'huile de tournesol
+69,70,10 cl de sauce soja 
+69,64,5 cl d'huile de sésame
+69,197,Un peu de 5 épices
+69,25,Coriandre
+70,94,10 cl de crème liquide
+70,22,Beurre
+70,15,1 c. à s. de moutarde
+70,83,1 c. à s. de miel
+70,11,1 oignon
+70,198,20 cl de cidre demi-sec
+70,0,2 blancs de poulet
+70,6,Sel ou sel fin
+70,21,Poivre
+71,43,1 œuf
+71,91,Feuilles de brick
+71,2,1 gousse d'ail
+71,11,1 oignon haché
+71,199,1 c à café de cannelle
+71,6,Sel
+71,21,Poivre
+71,4,Persil
+71,0,500g de blancs de poulet
+72,2,2 gousses d'ail
+72,41,1 c à s de basilic haché
+72,200,25 g de beurre doux
+72,1,3 c à s d' huile d'olive
+72,6,Sel
+72,21,poivre
+72,11,2 oignons
+72,201,1 branche de céléri
+72,135,2 boules de mozzarella
+72,44,50 g de parmesan râpé
+72,174,250 g de tomates pelées en boite
+72,8,1 carotte
+73,162,1 c. à s. de jus de citron
+73,202,1 c. à s. d'huile d'arachide
+73,6,Sel ou sel fin
+73,21,Poivre
+73,70,2 c. à s. de sauce soja
+73,76,1 c. à c. de curry en poudre
+73,203,2 c. à s. de beurre de cacahuètes
+73,75,15 cl de lait de coco
+73,83,1 c. à s. de miel
+73,0,300 g de blancs de poulet
+74,204,1 sachet Duo Ciboulette & Persil Florette
+74,183,1 petite poignée de pignons de pin
+74,1,Huile d'olive
+74,6,Sel
+74,205,Fromage frais
+74,206,1 pomme
+74,0,2 blancs de poulet
+74,34,10 tomates cerises
+74,129,1 avocat
+74,207,1 poignée d'haricots verts
+75,208,1 c à c de cumin
+75,199,1 c à c de cannelle
+75,209,1 c à c de sumac
+75,6,Du sel
+75,21,Poivre
+75,210,1 c à c de piment de Cayenne
+75,40,1 c à c de thym (ou du zaatar qui est une de mes épices préférées)
+75,193,Marinade :
+75,2,4 gousses d'ail hachées
+75,1,3 c à s d'huile d'olive
+76,0,2 blancs de poulet
+76,35,1 tomate
+76,18,100 g de mayonnaise de Dijon de Dijon Plaisir et Légèreté Amora
+76,211,50 g de yaourts
+76,212,Origan
+76,40,Thym
+76,213,Sauge
+76,41,Basilic
+77,165,40 cl de bouillon de poule
+77,142,1 jaune d'oeuf
+77,22,15 g de beurre
+77,6,Sel ou sel fin
+77,5,Poivre du moulin
+77,94,8 cl de crème liquide
+77,11,0,5 oignon
+77,117,1 poireau
+77,8,1 carotte
+77,9,1 pomme de terre
+77,0,2 blancs de poulet
+78,141,1 l d'huile
+78,214,300 g de nouilles chinoises
+78,173,200 g de crevettes
+78,81,20 g de sucre
+78,82,10 cl d'eau
+78,11,100 g d'oignons
+78,177,100 g de céleri branche
+78,215,100 g de concombres
+78,0,100 g de blancs de poulet
+78,92,8 champignons parfumés
+78,81,20 g de sucre
+78,2,20 g d'ail
+78,216,2 c. à s. de sauce d'huître
+78,217,Fécule
+78,25,0,5 botte de coriandre
+78,196,0,25 botte de menthe
+78,6,Sel ou sel fin
+78,21,Poivre
+79,106,1pot de crème fraiche (entre 300 et 400g)
+79,6,Sel
+79,21,poivre
+79,218,1 paquet de lardons fumés
+79,49,1 poivron rouge
+79,0,6 blancs de poulets
+80,219,Une assiette creuse de farine
+80,220,1 oignon rouge (+/- 40 g)
+80,43,2 œufs
+80,57,Huile de friture ou huile de pépin de raisin
+80,221,230g de lait entier
+80,26,1 c à c de paprika
+80,68,1 morceau (de la taille d'un pouce) de gingembre frais
+80,6,Sel
+80,21,Poivre
+80,200,30g de beurre doux
+80,55,12g de farine
+81,222,curry en poudre (selon goût)
+81,6,Sel
+81,21,Poivre
+81,26,2 pincées de paprika
+81,50,Piment d'Espelette
+81,223,1 C à café de vinaigre de riz
+81,11,1 gros oignon ou 2 petits
+81,224,25 cl de crème fraîche semi-épaisse
+81,197,1 pincée de 4 épices
+81,29,6 filets de poulet
+82,225,4 blanc de dinde ou blancs de poulet
+82,9,12 pommes de terre
+82,23,1 échalote
+82,11,0,5 oignon
+82,106,0,5 pot de crème fraîche
+82,226,1 cube de bouillon
+82,22,Beurre
+82,1,Huile d'olive
+82,26,Paprika ou curry
+83,227,Curry
+83,62,Mélange 5 baies
+83,210,Piment de Cayenne
+83,13,Gros Sel
+83,5,Poivre du moulin
+83,3,1 citron
+83,24,1 citron vert
+83,1,4 c à soupe d'huile d'olive
+83,2,4 gousses d'ail écrasées
+83,0,6 blancs de poulet
+84,228,Pain de mie
+84,0,Blanc de poulet
+84,35,Tomate
+84,43,œuf
+84,131,Bacon
+84,229,Salade
+84,18,Mayonnaise
+85,55,225 g de farine
+85,162,0,5 jus de citron
+85,6,Sel ou sel fin
+85,21,Poivre
+85,230,1 poivron jaune
+85,1,4 c. à s. d'huile d'olive
+85,231,200 g de yaourt au lait de brebis
+85,232,2 c. à s. de mélange tandoori
+85,43,3 oeufs
+85,0,2 blancs de poulet
+86,81,1 pincée de sucre
+86,6,2 pincées de sel
+86,233,1 c à c de purée de tomates
+86,117,1 poireau
+86,2,2 gousses d'ail écrasé
+86,68,2 c à c de gingembre fraîchement râpé
+86,70,2 c à c de sauce de soja
+86,165,4 c à s de bouillon de poule
+86,217,1 c à c de fécule
+86,202,2 c à s d'huile d'arachide
+87,234,Sel
+87,21,Poivre
+87,235,2 citrons jaunes
+87,24,1 citron vert
+87,75,1 petite boite de lait coco
+87,70,Sauce soja
+87,68,Gingembre
+87,0,500g de blancs de poulet
+88,194,4 filets de poulets
+88,184,4 tranches de jambon de Parme
+88,36,4 c. à s. de philadelphia
+88,213,8 feuilles de sauge ou Basilic
+88,1,Huile d'olive
+88,97,2 cl de vin blanc
+88,6,Sel ou sel fin
+88,21,Poivre
+89,6,Sel
+89,21,Poivre
+89,185,Tomates séchées
+89,1,4 c. à s. d'huile d'olive
+89,63,Herbes de Provence
+89,3,Un citron
+90,236,1 botte de basilic
+90,2,1 gousse d ail
+90,6,Sel
+90,237,Piment
+90,22,100g de beurre
+90,127,200g de petit pois
+90,11,0.5g d oignons bottes
+90,51,100g de tomates confites
+91,1,6 c. à s. d'huile d'olive
+91,143,1 c. à s. de vinaigre balsamique
+91,6,Sel ou sel fin
+91,5,Poivre du moulin
+91,0,200 g de blancs de poulet
+91,94,25 cl de crème liquide
+91,164,200 g d'epinards
+91,11,1 oignon
+91,238,1 bouquet d'herbes fraîches
+91,43,4 oeufs
+91,124,1 kg de courgettes
+92,239,2 c à c de gingembre en poudre
+92,108,2 c à c de cumin en poudre
+92,240,2 pincées de cannelle en poudre
+92,241,2 pincées d'ail en poudre
+92,81,1 pincée de sucre
+92,1,3 c à s d'huile d'olive
+92,147,4 escalopes de poulet
+92,1,1 c à c d'huile d'olive
+92,154,60g de raisins secs
+92,242,1/2 citron confit au sel
+92,11,1 gros oignons émincé
+92,226,Bouillon ou eau
+92,22,2 noix de beurre
+93,8,100g de carottes râpées
+93,35,1 belle tomate
+93,67,Une c à s de curry
+93,18,120g de mayonnaise
+93,29,320g de filets de poulet
+94,1,2 càc d'huile d'olive extra vierge
+94,41,Feuilles de basilic frais
+94,179,1 brin de romarin frais
+94,36,100g de Philadelphia Ail & Fines Herbes Light
+94,0,4 gros blancs de poulet
+95,27,Cumin
+95,25,Coriandre
+95,105,1 c. à c. de concentré de tomates
+95,21,Poivre
+95,6,Sel ou sel fin
+95,8,2 carottes
+95,0,100 g de blancs de poulet
+96,243,2 oignons blancs
+96,97,1 verre de vin blanc
+96,22,50g de beurre
+96,141,Un peu d'huile
+96,244,100g de châtaignes
+96,245,250g de pleurotes
+96,170,2 cuisses de poulet
+96,0,1 blanc de poulet
+96,246,20 feuilles de pâte à filo
+96,247,2 blancs de poireau
+97,210,1 cuillère à soupe de piment de cayenne
+97,248,8 tranches de chorizo
+97,0,4 blancs de poulet coupés en lamelle
+97,120,4 tomates concassées (recette en conseil)
+97,1,2 càs d'huile d'olive
+98,249,40 g de beurre
+98,6,Sel
+98,89,50 g de cacahuètes grillées
+98,41,2 CS de basilic frais haché
+98,250,1 yaourt nature
+98,147,650 g d'escalope de poulet
+99,64,1 c. à s. d'huile de sésame
+99,70,3 c. à c. de sauce soja
+99,100,1 c. à c. de graines de sésame
+99,29,2 filets de filets de poulet
+99,251,1 bouquet de brocolis
+100,22,70  gr de beurre
+100,6,Sel
+100,21,Poivre
+100,2,1 gousse d'ail émincée
+100,252,10 cl de Porto (pas de porto optez pour un autre alcool cognac, armagnac ou pas d'alcool du tout)
+100,253,225 gr de foies de volaille
+100,11,1 oignon ou 1 échalote (regardez dans votre placard et choisissez)
+100,254,2 tranches de lard maigre
+101,255,200g de mesclun
+101,0,150g de blanc de poulet
+101,149,100g de gorgonzola
+101,135,100g de mozzarella
+101,206,1 pomme
+101,256,1 poire
+101,257,1 poignée de cranberries
+101,258,1 poignée de noix
+101,123,1 grosse aubergine
+101,43,1 gros oeuf battu
+101,19,50g de chapelure
+101,17,40g de parmesan
+101,57,Huile de friture
+101,6,Sel
+101,21,Poivre
+101,1,1 c à s d'huile d'olive
+101,259,3 c à s de vinaigre de vin rouge
+101,143,3 c à s de vinaigre balsamique
+101,2,1 gousse d'ail émincée
+101,21,1/2 c à thé de poivre
+101,6,1/4 de c à thé de sel
+102,260,le jus de 3 oranges
+102,22,20 g de beurre
+102,6,Sel
+102,21,Poivre
+102,261,50 g d'abricots secs
+102,262,1 cuill. à café de ras el hanout
+102,11,1 oignon
+102,2,1 gousse d'ail
+103,31,1 verre 1/2 de semoule couscous moyenne
+103,1,1 CS d'huile d'olive
+103,6,Sel
+103,21,Poivre
+103,124,1 courgette
+103,8,1 carotte
+103,83,1 CS de miel
+103,263,1 CC de fond de veau
+103,0,2 blancs de poulet
+104,67,1 c. à s. de curry
+104,19,Chapelure
+104,6,Sel ou sel fin
+104,21,Poivre
+104,1,2 c. à s. d'huile d'olive
+104,264,1 c. à s. de moutarde à l'ancienne
+104,150,1 poivron
+104,11,1 oignon
+104,29,500 g de filets de poulet
+105,265,1 jaune d'œuf
+105,106,1 dl de crème fraîche
+105,6,Sel
+105,21,Poivre
+105,4,2 c. à soupe de persil haché
+105,266,4 c. à soupe de mie de pain
+105,124,4 courgettes
+106,1,Huile d'olive
+106,122,Ciboulette
+106,5,Poivre du moulin
+106,27,1 c. à c. de cumin
+106,26,1 c. à c. de paprika
+106,11,1 botte d'oignons
+106,167,1 ananas
+106,0,6 blancs de poulet
+107,267,12 moules géantes
+107,268,200g de fruits de mer
+107,127,150g de petits pois
+107,248,100g de chorizo
+107,4,1 c à s de persil ciselé
+107,6,Sel
+107,21,Poivre
+107,162,1 c à s de jus de citron
+107,35,6 tomates
+107,269,1 dose de safran
+107,11,2 oignons
+107,49,2 poivrons rouges
+107,65,2 poivrons verts
+107,2,2 gousses d'ail
+107,85,250g de riz cru
+107,116,400 ml de bouillon de volaille
+107,1,1 c à s d'huile d'olive
+107,29,200g de filet de poulet
+108,270,2 càs d'huile d'olive
+108,63,Herbes de Provence
+108,2,Ail écrasé
+108,58,2 càs de Ketchup
+108,49,1 gros poivron rouge
+108,230,1 gros poivron jaune
+108,29,500g de filets de poulet
+109,64,Huile de sésame
+109,100,Grain de graine de sésame
+109,25,Coriandre fraiche
+109,141,Huile
+109,68,5 cm de gingembre frais
+109,85,100 g de riz
+109,12,1 cube de bouillon de légumes
+109,29,2 filets de filets de poulet
+110,271,2 tranches de pancetta
+110,272,4 asperges
+110,273,10 oignons grelot ou 20 oignons grelots
+110,116,Bouillon de volaille
+110,6,Sel ou sel fin
+110,21,Poivre
+110,1,Huile d'olive
+110,2,1 gousse d'ail
+110,23,2 échalotes
+110,274,400 g de petit pois surgelés
+110,22,20 g de beurre
+110,275,10 cl de crème
+110,29,2 filets de filets de poulet
+111,276,Menthe
+111,3,1 citron
+111,277,2 c à s d'huile de colza ou d'huile d'olive
+111,12,1 bouillon de légumes
+111,278,Aneth
+111,25,Coriandre
+111,215,1 concombre
+111,279,1 fenouil
+111,0,2 blancs de poulet
+112,85,350g de riz
+112,75,20 cl de lait de coco
+112,162,1 c à s de jus de citron
+112,67,2 c à s de curry
+112,280,100g de caramel au beurre salé
+112,165,16 cl de bouillon de poule
+112,83,2 c à s de miel
+112,0,600g de blancs de poulet
+113,2,1 gousse d'ail
+113,25,1 beau bouquet de coriandre
+113,70,4 c à s de sauce soja
+113,1,3 c à s d'huile d'olive
+113,11,1 petit oignon
+113,33,200g de germes de soja
+113,124,1 petite courgette
+113,49,1 poivron rouge
+113,281,200g de petit épis de maïs
+113,29,500g de filets de poulet
+114,179,1 branche de romarin
+114,56,10 cl de lait
+114,141,2 c. à s. d'huile
+114,282,Poivron à l'huile
+114,283,Persil plat
+114,201,1 branche de céleri
+114,165,1 l de bouillon de poule
+114,36,80 g de philadelphia
+114,6,Sel ou sel fin
+114,26,Paprika
+114,284,200 g de coeurs de laitue
+114,0,600 g de blancs de poulet
+115,1,3 c. à s. d'huile d'olive
+115,6,Sel ou sel fin
+115,21,Poivre
+115,52,1 c. à s. de miel liquide
+115,3,2 citrons
+115,36,300 g de philadelphia Nature Light
+115,215,1 concombre
+115,100,3 c. à s. rase(s) de graines de sésame
+115,0,700 g de blancs de poulet
+116,55,100g de farine
+116,6,Sel
+116,21,Poivre
+116,40,Thym
+116,285,Marjolaine
+116,103,Muscade
+116,43,3 œufs
+116,283,Un peu de persil plat
+116,94,1/4 de crème liquide
+116,0,1 tranche de blanc de poulet
+116,11,1 oignon
+117,286,1 jaune d'œuf
+117,3,½ citron
+117,287,2 c à c de Tabasco
+117,1,3 c à s d'huile d'olive
+117,21,Poivre
+117,6,Sel
+117,45,4 c à c de sauce Worcester
+117,82,5 cl d'eau
+117,186,17,5 cl de coulis de tomates
+117,43,1 œuf cuit dur
+117,288,1 g d'agar-agar (soit 1 c à c)
+117,15,1 c à s de moutarde
+117,2,2 gousses d'ail
+118,217,2 c. à c. de fécule
+118,15,1 c. à s. de moutarde
+118,6,Sel ou sel fin
+118,21,Poivre
+118,11,1 oignon (petit)
+118,167,1 petite boîte d'ananas en morceaux
+118,171,1 c. à s. d'épices pour colombo
+118,1,3 c. à c. d'huile d'olive
+118,289,300 g d'asperges vertes
+118,290,20 aiguillettes de poulet
+119,3,Goutte de citron
+119,6,Sel ou sel fin
+119,232,1 c. à s. de mélange tandoori
+119,250,2 yaourts nature
+119,29,2 filets de filets de poulet
+120,22,40g de beurre
+120,102,400g de champignons de Paris
+120,23,70g d'échalotes
+120,82,600g d'eau
+120,142,2 jaunes d'œuf
+120,79,40g de maizéna
+120,6,Sel
+120,21,Poivre
+121,291,8 filets de poulet Maître CoQ
+121,65,1 poivron vert
+121,49,1 poivron rouge
+121,11,4 oignons
+121,97,10 cl de vin blanc
+121,3,1 citron
+121,292,1 piment rouge
+121,293,1 bouquet garni
+121,2,1 gousse d'ail
+121,6,Sel
+121,21,Poivre
+122,294,1 pointe de gingembre (en poudre)
+122,6,Sel ou sel fin
+122,110,1 pointe de coriandre en poudre ou coriandre moulue
+122,295,1 pincée de piment oiseau
+122,1,1 c. à s. d'huile d'olive
+122,162,2 c. à s. de jus de citron
+122,0,2 blancs de poulet
+123,296,20g de massala
+123,6,Sel
+123,21,Poivre
+123,297,20 cl d'huile de pépins de raisin
+123,19,100g de chapelure
+123,43,3 œufs
+123,55,50g de farine
+124,298,2 c à c de curry en poudre 
+124,26,2 c à c de paprika en poudre 
+124,155,1 poignée d'amandes effilées
+124,52,3 c à s de miel liquide 
+124,141,2 c à s d'huile 
+124,0,2 blancs de poulet 
+124,299,1 blanc d'œuf 
+124,106,1 c à s de crème fraîche 
+124,15,2 c à s de moutarde 
+124,170,4 cuisses de poulet fermier 
+125,300,Sel
+125,21,Poivre
+125,0,2 Blancs de poulet
+125,19,Chapelure
+125,94,Crème liquide
+125,35,1 belle tomate
+125,301,1 gros oignon blanc ou rouge
+125,38,3 tranches de chedar
+125,302,1 baguette
+126,43,1 oeuf
+126,1,Huile d'olive
+126,6,Sel ou sel fin
+126,15,1 c. à s. de moutarde
+126,56,20 cl de lait
+126,303,100 g de cacahuètes non salées
+126,304,200 g de pâte d'arachides
+126,0,4 blancs de poulet
+127,305,25 cl eau
+127,55,2 c à s de farine
+127,22,20g beurre
+127,1,1 c à s huile d'olive
+127,21,Poivre
+127,6,Sel
+127,287,1/2 c à c de Tabasco
+127,105,1 boîte de concentré de tomates
+127,2,1 gousse d'ail
+127,11,1 oignon
+127,49,1 poivron rouge
+127,201,2 branches de céleri
+127,178,3 c à c de mélange cajun
+127,29,4 filets de poulet
+128,25,1 botte de coriandre
+128,1,1 c. à s. d'huile d'olive
+128,6,Sel ou sel fin
+128,21,Poivre
+128,99,1 c. à s. de sauce soja salée
+128,121,500 g de riz basmati
+128,75,20 cl de lait de coco
+128,23,2 échalotes
+128,306,1 bâton de citronnelle
+128,0,700 g de blancs de poulet
+129,6,Sel ou sel fin
+129,21,Poivre
+129,22,Beurre
+129,141,Huile
+129,260,2 oranges
+129,0,3 blancs de poulet
+130,307,2 jaunes d'œufs
+130,308,8 portions de Boursin
+130,91,8 feuilles de brick
+130,0,300g de blanc de poulet
+131,309,Huile d'olive
+131,116,Bouillon de volaille
+131,198,1 verre de cidre
+131,23,2 échalotes
+131,310,Des graines de pavot
+131,43,1 œuf
+131,19,De la chapelure
+131,311,Des graines de sésame dorées
+131,29,2 filets de poulet
+132,55,4 c. à s. de farine
+132,22,25 g de beurre
+132,43,1 oeuf
+132,312,8 tranches de bresse bleu
+132,313,4 tranches de salami
+132,314,10 pruneaux
+132,315,Filet de dinde
+132,6,Sel ou sel fin
+132,21,Poivre
+132,190,4 pincées de fleur de sel
+132,103,2 pincées de noix de muscade
+132,55,2 c. à s. de farine
+132,21,Poivre
+132,162,1 c. à s. de jus de citron
+132,103,0,5 c. à c. de noix de muscade
+132,98,25 cl de crème fraîche épaisse
+132,312,250 g de bresse bleu
+133,316,1 c à s d'huile d'olive
+133,317,3 c à s de Marsala
+133,165,1 c à s de bouillon de poule
+133,272,Asperges cuites ou en boîte pour décorer
+133,22,Beurre
+133,55,De la farine
+133,21,Poivre
+133,0,2 blancs de poulet
+134,223,3 c. à s. de vinaigre de riz ou vinaigre japonais
+134,4,1 branche de persil frais
+134,6,1 pincée de sel ou sel fin
+134,21,1 pincée de poivre
+134,97,25 cl de vin blanc
+134,98,2 c. à s. de crème fraîche épaisse
+134,185,12 morceaux de tomates séchées
+134,11,2 oignons
+134,35,3 tomates
+134,0,4 blancs de poulet
+135,55,50 g de farine
+135,43,1 oeuf
+135,29,2 filets de filets de poulet
+135,6,1 pincée de sel ou sel fin
+135,1,Huile d'olive
+136,0,4 blancs de poulet
+136,55,50 g de farine
+136,1,4 c. à s. d'huile d'olive
+136,3,1 citron bio (pour en prélever le zeste)
+136,162,2 c. à s. de jus de citron fraîchement pressé
+136,6,4 pincées de sel ou sel fin
+136,318,4 pincées de poivre noir du moulin
+136,283,2 brins de persil plat
+136,85,250 g de riz
+137,0,2 blancs de poulet
+137,94,1 brique de crème liquide
+137,53,Pâtes
+137,319,1 pot de pesto rouge / Pesto Rosso
+138,320,Ciboulette fraîche
+138,4,Persil frais
+138,22,Beurre
+138,1,Huile d'olive
+138,181,Poivre noir
+138,142,1 jaune œuf
+138,266,Une poignée de mie de pain
+139,321,Pistache
+139,322,Confiture de figues
+139,194,Poulet
+140,183,Pignon de pin
+140,41,Basilic
+140,269,Safran
+140,6,Sel ou sel fin
+140,21,Poivre
+140,1,Huile d'olive
+140,143,Vinaigre balsamique
+140,75,4 c. à s. de lait de coco
+140,11,1 oignon (gros)
+140,83,2 c. à s. de miel
+140,105,1 petite boîte de concentré de tomates
+140,29,Filet de filet de poulet
+141,6,Sel
+141,1,Huile d'olive (sans hésitation)
+141,82,Eau
+141,2,Ail (6)
+141,323,Moules (une 15aine)
+141,11,Oignon (1)
+141,324,Gambas crues (2 par personne)
+142,2,3 gousses d'ail
+142,98,4 c. à s. de crème fraîche épaisse
+142,4,1 bouquet de persil
+142,22,Beurre
+142,1,Huile d'olive
+142,6,Sel ou sel fin
+142,21,Poivre
+143,67,1/2 càc de curry
+143,26,1 càc de paprika
+143,78,1 càc de curcuma
+143,294,1 càc de gingembre en poudre
+143,6,du sel
+143,262,1 càc de ras el hanout
+143,4,4 tiges de persil
+143,25,4 tiges de coriandre fraiche
+143,201,2 feuilles de celeri
+143,11,1 petit oignon
+143,15,1 càc moutarde
+143,0,1 blanc de poulet moyen
+143,81,1 càc de sucre
+143,105,1 càs de tomate concentrée
+143,6,du sel
+143,1,3 càs d'huile d'olive
+143,25,quelques feuilles de coriandre hachées
+143,2,3gousses d'ail
+143,40,1 branche de thym
+143,11,2oignons
+144,325,0,25 maroilles
+144,106,50 cl de crème fraîche
+144,326,30 cl de bière blonde
+144,22,30 g de beurre
+144,11,1 oignon
+144,0,4 blancs de poulet
+145,21,Poivre
+145,6,Sel ou sel fin
+145,22,Beurre
+145,327,500 ml de crème liquide entière ( 30% de MG )
+145,0,2 blancs de poulet
+145,328,Morille
+146,320,Sauce de soja caramélisée
+146,21,Poivre
+146,35,2 tomates
+146,124,1 courgette
+146,80,3 cuill.à soupe d'huile de tournesol
+146,1,1 cuill. à soupe d'huile d'olive
+146,6,Sel
+146,106,15 cl de crème fraîche
+146,166,2 cuill.à soupe d'estragon cisele
+146,137,1 boîte de 285g de maïs
+146,4,du persil frais
+146,71,10 cl de vin blanc sec(facultatif)
+146,329,2 cuill.à soupe de moutarde forte ou 1/2forte
+146,0,4 blancs de poulet
+147,330,8 cornichons
+147,229,8 grandes feuilles de salade
+147,331,Fromage blanc
+147,18,2 c. à s. de mayonnaise
+147,0,2 blancs de poulet
+147,8,2 carottes
+148,6,Sel
+148,21,Poivre
+148,163,Fromage râpé
+148,11,1 oignon
+148,0,1 blanc de poulet
+148,43,3 œufs
+148,106,2 c à s de crème fraîche
+149,105,1 boite de concentré de tomates
+149,150,2 poivrons (rouge et vert)
+149,11,1 oignon
+150,199,Cannelle
+150,1,Huile d'olive
+150,6,Sel ou sel fin
+150,21,Poivre
+150,166,Estragon
+150,27,Cumin
+150,49,2 poivrons rouges
+150,332,2 crottins de chèvre
+150,2,1 tête d'ail
+150,0,4 blancs de poulet
+151,137,1 petite boîte de maïs
+151,186,1 boite de coulis de tomate
+151,71,1 bouteille de vin blanc sec
+151,3,1 citron
+151,292,1 piment rouge
+151,230,1 poivron jaune
+151,11,2 oignons
+151,49,1 poivron rouge
+151,65,1 poivron vert
+151,0,4 blancs de poulet
+152,1,huile d'Olive
+152,283,1 botte de persil plat
+152,333,200 g d'olives noires dénoyautées
+152,185,150 g de tomates séchées
+152,334,12 feuilles de Lasagne
+152,116,250 ml de bouillon de volailles
+152,220,2 oignons rouges
+152,56,400 ml de lait
+152,55,20 g de farine
+152,6,Sel
+152,5,Poivre du moulin
+152,335,un petit zeste de citron
+152,22,30 g de beurre
+153,320,sel
+153,21,poivre
+153,122,ciboulette
+153,3,1 citron
+153,106,2 grossees cuillères de crème fraiche
+153,0,2 blancs de poulet
+154,336,1 c. à s. de moutarde de Dijon
+154,4,1 petit bouquet de persil
+154,233,2 c. à s. de purée de tomate
+154,49,1 poivron rouge
+154,250,2 yaourts nature
+154,29,4 filets de filets de poulet
+155,0,4 blancs de poulet
+155,117,10 poireaux
+155,97,1 verre de vin blanc
+155,116,1 cube de bouillon de volaille
+155,337,3 cuillères de crème fraîche légère
+155,1,Huile d'olive
+155,6,Sel ou sel fin
+155,21,Poivre
+156,100,3 c. à s. de graines de sésame
+156,64,2 c. à s. d'huile de sésame
+156,70,6 c. à s. de sauce soja
+156,52,2 c. à s. bombée(s) de miel liquide
+156,0,6 blancs de poulet
+157,338,1 cube de bouillon
+157,6,Sel
+157,21,Poivre
+157,75,30 cl de lait de coco
+157,2,1 gousse d'ail haché
+157,11,1 oignon émincé
+157,0,6 blancs de poulet
+158,6,Sel ou sel fin
+158,21,Poivre
+158,116,1 cube de bouillon de volaille
+158,160,4 boules de pain
+158,102,400 g de champignons de Paris
+158,339,Riz blanc
+158,22,50 g de beurre
+158,102,100 g de champignons de Paris
+158,140,1 bouquet de cerfeuil
+158,340,50 cl de crème épaisse
+158,341,25 g de morilles séchées
+158,82,50 cl d'eau
+158,342,Herbes aromatiques
+158,23,2 échalotes
+158,0,4 blancs de poulet
+159,106,Crème fraîche
+159,6,Sel ou sel fin
+159,21,Poivre
+159,67,Curry
+159,2,Ail
+159,11,1 oignon
+159,35,2 tomates
+159,29,Filet de filet de poulet
+160,343,1 tasse de sirop d'érable
+160,252,1 tasse de porto
+161,320,1 blanc de poulet ,150 grammes de crevettes crues décortiquées, 1 verre de riz thaï cuit, 1 à 2 cuillères à café de curry (selon les goûts), 1oignon, 1 gousse d'ail, 2 cuillères à soupe de sauce soja
+162,129,1 gros avocat bien mûr
+162,141,1 c à s d'huile
+162,287,6 gouttes de tabasco
+162,3,Le jus de 1/2 citron
+162,301,1 petit oignon blanc
+162,344,50 cl de vin rouge
+162,0,600g de blancs de poulet
+162,116,1 cube de bouillon de volaille
+163,320,du beurre
+163,100,des graines de sésame
+163,6,1 pincée de sel
+163,21,De poivre
+163,15,1 c à s de moutarde
+163,340,4 c à s de crème épaisse
+163,97,1 c à s de vin blanc
+163,0,Deux blancs de poulet
+164,320,une petite vinaigrette faite avec de l'huile de noisette et vinaigre basalmique blanc de préférence ou de framboise selon les goûts quelques gouttes de miel, - sel et poivre
+164,195,1/2 botte de roquette
+165,283,Persil plat
+165,213,Sauge
+165,179,Romarin frais
+165,1,huile d'olive
+165,6,Sel
+165,81,Sucre
+165,5,Poivre du moulin
+165,55,Farine
+165,345,1/2 verre de vinaigre de vin
+165,260,1 orange
+165,97,1/2verre de vin blanc
+166,0,4 blancs de poulet
+166,162,1 jus de citron
+166,2,2 gousses d'ail
+166,1,4 c. à s. d'huile d'olive
+166,15,2 c. à s. de moutarde
+166,58,2 c. à s. de ketchup
+166,6,Sel ou sel fin
+167,82,2 verres d'eau
+167,80,huile de tournesol
+167,321,pistache
+167,22,beurre
+167,4,1 botte de persil
+167,11,1 oignon rapé finement
+167,346,2 Steaks
+168,347,de la semoule fine ou moyenne
+168,11,1 oignon
+168,15,1 grosse cuil à soupe de moutarde
+168,106,1 pot de crème fraiche de 50 ml
+168,0,4 blancs de poulets
+169,320,Filet de poulet
+169,260,1 orange
+169,337,Crème fraîche légère
+170,348,6 tranches d'edam ou fromage rouge
+170,6,Sel ou sel fin
+170,21,Poivre
+170,120,1 boite de tomates pelées concassées
+170,146,25 cl de crème fraîche liquide
+170,124,1 courgette (grosse)
+170,29,3 filets de filets de poulet
+171,41,1 pincée de basilic
+171,6,Sel ou sel fin
+171,21,Poivre
+171,44,4 c. à s. de parmesan râpé
+171,56,20 cl de lait
+171,120,1 boite de tomates pelées concassées
+171,29,2 filets de filets de poulet
+172,67,Curry
+172,6,Sel
+172,21,Poivre
+172,141,Huile
+172,75,150 ml lait coco
+172,2,1 ou 2 gousses d'ail
+172,349,2 patates douces
+172,11,1 oignon
+172,29,4 filets de poulet
+173,320,1 cuillère à soupe de sauce soja
+173,25,2 feuilles de coriandre hachée
+173,21,1 peu de poivre
+173,1,3 cuillères à soupe d'huile d'olive
+173,350,1 belle poignée de noix de cajou
+173,220,1/2 oignon rouge émincé finement
+173,24,le jus d'un citron vert
+173,0,2 blancs de poulet coupés en lamelles
+173,75,une brique de lait de coco
+174,1,2 cuillères à café d'huile d'olive
+174,23,2 échalotes émincées
+174,6,Sel
+174,21,Poivre
+174,166,2 cuillères à café d'estragon
+174,337,2 cuillères à café de crème fraîche allégée
+174,102,200 g de champignons de Paris émincés
+174,15,2 cuillères à café de moutarde
+175,141,3 c. à s. d'huile
+175,195,Feuille de roquette
+175,5,Poivre du moulin
+175,79,2 c. à c. de fécule de maïs
+175,70,2 c. à s. de sauce soja
+175,52,6 c. à s. de miel liquide
+175,294,1,5 c. à c. de gingembre (en poudre)
+175,162,2 c. à s. de jus de citron
+175,0,1 kg de blancs de poulet
+176,11,1 oignon
+176,3,0,5 citron
+176,4,0,5 bouquet de persil
+176,6,Sel ou sel fin
+176,21,Poivre
+176,340,1 c. à s. de crème épaisse
+176,22,90 g de beurre
+176,9,600 g de pommes de terre
+176,218,125 g de lardons fumés
+176,142,1 jaune d'oeuf
+176,0,4 blancs de poulet
+177,0,200 g de blancs de poulet
+177,1,2 c. à s. d'huile d'olive
+177,351,4 pain pita ou pain libanais
+177,6,Sel ou sel fin
+177,21,Poivre
+177,11,1 oignon
+177,229,4 feuilles de salade
+177,211,2 yaourts
+177,35,3 tomates
+177,124,1 courgette (petite)
+177,2,1 gousse d'ail
+178,6,Sel ou sel fin
+178,21,Poivre
+178,206,1 pomme
+178,11,1 oignon
+178,67,0,5 c. à c. de curry
+178,75,40 cl de lait de coco
+178,0,4 blancs de poulet
+179,66,2 cuillères à soupe de miel
+179,199,1 bâton de cannelle
+179,27,1 cuillère à café de cumin
+179,6,Sel
+179,21,Poivre
+179,185,1 bocal de tomates séchées
+179,11,2 oignons
+179,2,1 gousse d'ail
+179,1,1 cuillère à soupe d'huile d'olive
+179,174,1 boîte de 1kg de tomates pelées
+179,0,8 blancs de poulet
+180,71,10 cl de vin blanc sec
+180,352,1 c à c d'origan séché
+180,6,Sel
+180,21,Poivre
+180,1,1 c à s d'huile d'olive
+180,220,1 oignon rouge
+180,85,200g de riz
+180,105,1 c a c de concentré de tomates
+180,0,4 blancs de poulet
+181,21,Poivre
+181,263,3 c. à s. de fond de veau
+181,275,50 cl de crème
+181,325,350 g de maroilles
+181,29,6 filets de filets de poulet
+182,70,sauce soja
+182,24,citron vert
+182,35,tomates
+182,11,oignons
+182,2,ail
+182,29,Filet de poulet
+183,102,Champignon de Paris
+183,353,Soja
+183,2,Ail
+183,122,Ciboulette
+183,354,Jambon de dinde
+183,43,2 oeufs (gros)
+183,0,2 blancs de poulet
+183,173,1 boite de crevettes
+183,121,Riz basmati
+184,355,Curcuma
+184,67,Curry
+184,269,Safran (facultatif)
+184,41,Basilic
+184,1,Huile d'olive
+184,6,Sel
+184,21,Poivre
+184,356,1 poivron orange
+184,11,1 oignon
+184,102,5/6 gros champignons de Paris
+184,0,4 blanc de poulet
+185,320,300g filet de poulet
+185,47,200g de sucre semoule
+185,82,100g d'eau
+185,357,380g jus d'oranges
+185,143,160g vinaigre balsamique
+185,1,160g huile d'olive
+186,320,Sel
+186,21,Poivre
+186,2,Ail
+186,41,Basilic
+186,3,3 citrons
+187,40,Thym
+187,139,Laurier
+187,6,Sel
+187,21,Poivre
+188,255,150 g de salade de mesclun
+188,8,1 carotte
+188,143,0,2 dl de vinaigre balsamique
+188,1,0,2 dl d'huile d'olive
+188,190,4 pincées de fleur de sel
+188,43,2 oeufs
+188,358,25 g de farine de blé
+188,359,40 g de flocons d'avoine
+188,29,150 g de filets de poulet
+189,82,1 cl d'eau froide
+189,202,Huile d'arachide
+189,6,1 pincée de sel ou sel fin
+189,142,1 jaune d'oeuf
+189,55,200 g de farine
+189,58,1 c. à s. de ketchup
+189,331,2 c. à s. de fromage blanc
+189,29,120 g de filets de poulet
+190,320,Pâtes fraîches, cœur de salade et vinaigrette avec cornichons émincés (vinaigre blanc, oignons ou échalotes, ail, sel et poivre, filet de citron et cornichons, câpres)
+191,320,2 blancs de poulet
+191,331,Fromage blanc
+191,139,2 feuilles de Laurier
+191,63,Herbes de Provence
+191,135,1 boule de Mozzarella
+191,35,1 boite de tomates en dés
+191,2,Ail
+191,123,3 belles aubergines
+192,0,400 g de blancs de poulet
+192,110,1 c. à c. de coriandre en poudre ou coriandre moulue
+192,285,1 c. à c. de marjolaine
+192,199,1 c. à c. de cannelle
+192,360,1 c. à c. de cardamome
+192,11,1 oignon
+192,57,Huile de friture
+192,6,Sel ou sel fin
+192,331,1 petit pot de fromage blanc
+192,25,1 c. à s. de coriandre fraîche hachée
+192,3,Goutte de citron
+192,6,Sel ou sel fin
+192,21,Poivre
+192,21,Poivre
+193,11,1 oignon
+193,6,Sel
+193,21,Poivre
+193,326,5 cl de bière blonde
+193,15,1 c à c de moutarde
+193,29,1 filet de poulet
+193,325,120g de maroilles ( variante: cheddar rapé)
+194,320,Olives
+194,330,Cornichons
+194,132,Fromage
+194,34,Tomates cerises
+194,308,Boursin ou autre préparation
+195,216,3 c à s de sauce aux huîtres
+195,43,2 œufs
+195,19,50g de chapelure
+195,361,1 c à s de vinaigre de Xérès
+195,6,Sel
+195,1,Huile d'olive
+195,362,150g de tranches de Gouda
+195,145,150g de gruyère râpé
+195,230,1 poivron jaune
+195,65,1 poivron vert
+195,49,1 poivron rouge
+195,356,1 poivron orange
+195,35,3 tomates
+195,11,1 oignon
+195,92,200g de champignons
+195,29,6 filets de poulet
+196,0,4 blancs de poulet
+196,254,4 fines tranches de lard
+196,363,250 g de bleu d'Auvergne
+196,35,2 tomates
+196,80,1 c. à s. d'huile de tournesol
+196,283,1 branche de persil plat
+196,6,Sel ou sel fin
+196,21,Poivre
+197,124,1 courgette
+197,10,1 navet
+197,8,2 carottes
+197,1,Huile d'olive
+197,361,Vinaigre de Xérès
+197,6,Sel
+197,5,Poivre du moulin
+198,0,200 g de blancs de poulet
+198,8,4 carottes
+198,2,1 gousse d'ail
+198,364,0,5 chou rouge
+198,70,3 c. à s. de sauce soja Suzi Wan
+198,1,2 c. à s. d'huile d'olive
+198,83,1 c. à s. de miel
+198,100,1 c. à s. de graines de sésame
+199,0,250 g de blancs de poulet
+199,8,100 g de carottes
+199,75,10 cl de lait de coco Suzi Wan
+199,65,1 poivron vert
+199,175,4 ciboules
+199,2,2 gousses d'ail
+199,68,4 cm de gingembre frais
+199,25,4 c. à s. de coriandre
+199,69,1 c. à s. d'huile végétale
+199,88,1 c. à s. de jus de citron vert
+199,77,1 c. à c. de purée de piment
+199,27,0,5 c. à c. de cumin
+199,365,2 clous de girofle
+199,366,1 anis étoilé ou Badiane
+199,21,Poivre
+199,6,Sel ou sel fin
+200,0,600 g de blancs de poulet
+200,367,4 c. à s. de moutarde douce
+200,19,2 c. à s. bombée(s) de chapelure
+200,1,Huile d'olive
+200,6,Sel ou sel fin
+201,168,1 sachet de riz à risotto Poulet & Champignons Uncle Ben’s
+201,0,200 g de blancs de poulet
+201,102,120 g de champignons de Paris
+201,23,2 échalotes (grosses)
+201,44,40 g de parmesan râpé
+201,1,1 c. à c. d'huile d'olive
+201,21,Poivre
+201,6,Sel ou sel fin
+202,368,2 blancs de poulet fermier (environ 350g en tout)
+202,43,1 gros oeuf
+202,44,65g de parmesan râpé
+203,369,2 sachets de couscous en perles Ebly®
+203,0,2 blancs de poulet
+203,34,10 tomates cerise
+203,124,1 courgette
+203,150,2 poivrons (1 vert et 1 jaune)
+203,370,100 g de pois chiches cuits
+203,371,80 g de feta
+203,4,1 c. à s. de persil haché
+203,241,1 c. à c. d'ail en poudre
+203,40,2 branches de thym
+203,1,5 c. à s. d'huile d'olive
+203,3,1 citron
+203,6,Sel ou sel fin
+203,21,Poivre
+204,0,4 blancs de poulet
+204,11,3 oignons
+204,369,2 sachets de couscous en perles Ebly®
+204,154,200 g de raisin secs
+204,2,2 gousses d'ail hachées
+204,82,40 cl d'eau
+204,1,5 cl d'huile d'olive
+204,294,1 c. à c. de gingembre (en poudre)
+204,78,0,5 c. à c. de curcuma
+204,199,0,25 c. à c. de cannelle
+204,372,Pistil de safran
+204,6,Sel ou sel fin
+204,21,Poivre
+205,373,250 g de blancs de poulet
+205,374,150 g de cerneaux de noix
+205,91,10 feuilles de feuilles de brick ou à pastilla
+205,23,2 échalotes hachées
+205,2,2 gousses d'ail hachées
+205,22,20 g de beurre fondu
+205,25,1 c. à s. de coriandre hachée
+205,1,1 filet d'huile d'olive
+205,372,Pistil de safran
+205,78,0,5 c. à c. de curcuma
+205,294,1 pincée de gingembre (en poudre)
+205,6,Sel ou sel fin
+205,5,Poivre du moulin
+206,0,4 blancs de poulet
+206,375,4 kakis Ribera del Xúquer
+206,75,40 cl de lait de coco
+206,11,1 oignon
+206,202,4 c. à s. d'huile d'arachide
+206,76,1 c. à s. de curry en poudre
+206,376,1 c. à s. de noix de coco rapée
+206,6,Sel ou sel fin
+206,21,Poivre
+207,377,Fraise Périgord IGP
+207,378,Sucre brun
+207,379,Vinaigre de cidre
+207,380,Pousse d'épinard
+207,220,Oignon rouge
+207,381,Radis
+207,196,1 c. à s. de menthe hachée
+207,1,Huile d'olive
+207,6,Sel ou sel fin
+207,21,Poivre
+207,0,Blanc de poulet
+207,43,Oeuf
+207,2,Ail
+207,196,Menthe ciselée
+207,25,Coriandre hachée
+207,3,Citron bio
+207,27,Cumin
+207,1,Huile d'olive
+207,6,Sel ou sel fin
+207,21,Poivre
+208,0,500 g de blancs de poulet
+208,382,20 billes de mozzarella
+208,11,1 oignon
+208,2,1 gousse d'ail
+208,4,2 c. à s. de persil haché
+208,55,100 g de farine
+208,43,2 oeufs
+208,383,1 kg de graisse de boeuf &quot;Blanc de bœuf&quot;
+208,6,1 pincée de sel ou sel fin
+208,21,1 pincée de poivre
+209,384,200 g de riz long
+209,0,4 blancs de poulet
+209,8,120 g de carottes râpées
+209,33,100 g de pousse de soja
+209,79,30 g de fécule de maïs
+209,80,4 c. à s. d'huile de tournesol
+209,100,20 g de graines de sésame
+209,82,24 cl d'eau
+209,223,2 c. à s. de vinaigre de riz ou vinaigre japonais
+209,64,1 c. à c. d'huile de sésame
+209,70,5 c. à s. de sauce soja
+209,2,1 c. à s. d'ail haché
+209,68,1 c. à c. de gingembre haché
+209,81,25 g de sucre
+209,83,3 c. à s. de miel
+209,79,2 c. à s. de fécule de maïs
+209,64,2 c. à s. d'huile de sésame
+209,70,1 c. à s. de sauce soja
+209,24,0,5 citron vert
+209,21,1 pincée de poivre
+210,85,300 g de riz semi complet
+210,0,4 blancs de poulet
+210,385,150 g de caviar de tomates séchées
+210,82,60 cl d'eau chaude
+210,11,2 oignons
+210,1,4 c. à s. d'huile d'olive
+210,108,1 c. à c. de cumin en poudre
+210,4,3 c. à s. de persil haché
+210,6,2 pincées de sel ou sel fin
+210,21,2 pincées de poivre
+211,258,412 g de noix de Grenoble AOP
+211,44,2 c. à s. de parmesan râpé
+211,98,40 cl de crème fraîche épaisse
+211,1,1 c. à s. d'huile d'olive
+211,6,2 pincées de sel ou sel fin
+211,5,2 pincées de poivre du moulin
+211,12,10 cl de bouillon de légumes
+211,0,570 g de blancs de poulet
+211,55,60 g de farine
+211,6,4 pincées de sel ou sel fin
+211,5,2 pincées de poivre du moulin
+211,283,0,5 bouquet de persil plat
+211,258,5 noix de Grenoble AOP
+212,0,4 blancs de poulet
+212,386,140 g de maïs en grains
+212,387,1 pomelo
+212,388,1 sachet de pousses de salade
+212,25,0,5 bouquet de coriandre
+212,24,1 citron vert
+212,30,Epice mexicaine
+212,1,Huile d'olive
+212,389,Vinaigre
+212,6,Sel ou sel fin
+212,21,Poivre
+213,390,100 g de chèvre frais
+213,391,4 escalopes de dinde
+213,185,6 pétales de tomates séchées
+213,380,50 g de pousses d'épinards
+213,22,10 g de beurre
+213,6,Sel ou sel fin
+213,21,Poivre
+214,392,400 g de pulpe de tomates
+214,1,4 c. à s. d'huile d'olive
+214,11,1 oignon petit
+214,6,2 pincées de sel ou sel fin
+214,179,1 brin de romarin
+214,147,4 escalopes de poulet
+214,55,50 g de farine
+214,43,2 oeufs
+214,393,125 g de chapelure fine
+214,394,70 g de grana Padano AOP râpé
+214,395,1 c. à c. de paprika doux
+214,179,1 c. à c. de romarin hachés
+214,1,6 c. à s. d'huile d'olive
+214,6,4 pincées de sel ou sel fin
+214,394,10 g de grana Padano AOP râpé
+214,318,4 pincées de poivre noir du moulin
+214,179,1 brin de romarin
+215,0,500 g de blancs de poulet
+215,160,25 g de pain
+215,56,1 verre de lait
+215,283,0,5 bouquet de persil plat
+215,43,1 oeuf
+215,6,4 pincées de sel ou sel fin
+215,5,4 pincées de poivre du moulin
+215,23,1 échalote
+215,395,1 c. à c. de paprika doux
+215,149,100 g de gorgonzola AOP piquant
+215,55,30 g de farine
+215,1,4 c. à s. d'huile d'olive
+215,71,0,5 verre de vin blanc sec
+215,82,0,5 verre d'eau
+215,213,4 feuilles de sauge
+215,179,1 brin de romarin
+215,149,120 g de gorgonzola AOP doux
+215,94,2 cl de crème liquide entière
+215,4,1 c. à s. de persil hachés
+216,0,600 g de blancs de poulet
+216,55,50 g de farine
+216,395,1 c. à c. de paprika doux
+216,1,5 c. à s. d'huile d'olive
+216,6,2 pincées de sel ou sel fin
+216,396,2 oignons nouveaux ou Cébettes
+216,42,1 laitue
+216,397,Vinaigrette
+217,0,4 blancs de poulet
+217,76,Curry en poudre
+217,1,Huile d'olive
+217,6,Sel ou sel fin
+217,157,250 g de yaourts grecs
+217,15,1 c. à s. de moutarde
+217,156,4 c. à s. de chutney de mangue
+217,3,1 citron
+217,396,2 oignons nouveaux ou Cébettes
+217,257,1 poignée de cranberries
+217,6,Sel ou sel fin
+217,42,1 laitue
+217,398,2 poignées de cacahuètes
+218,0,480 g de blancs de poulet (en filets)
+218,351,4 pain pita ou pain libanais
+218,229,4 feuilles de salade
+218,399,4 c. à s. de tzatziki
+218,1,2 c. à s. d'huile d'olive
+218,396,2 oignons nouveaux ou Cébettes
+218,230,2 poivrons jaunes
+218,49,2 poivrons rouges
+218,2,1 gousse d'ail
+218,1,4 c. à s. d'huile d'olive
+218,82,2 verres d'eau
+218,6,4 pincées de sel ou sel fin
+218,143,4 c. à s. de vinaigre balsamique
+218,157,140 g de yaourts grecs
+218,395,1 c. à s. de paprika doux
+218,283,1 c. à s. de persil plat
+218,2,2 gousses d'ail
+218,11,1 c. à s. d'oignons séchés
+218,162,3 c. à s. de jus de citron fraîchement pressés
+218,379,1 c. à c. de vinaigre de cidre
+218,1,1 c. à s. d'huile d'olive
+218,6,4 pincées de sel ou sel fin
+218,21,4 pincées de poivre
+219,400,250 g de farine de blé (T45)
+219,22,80 g de beurre
+219,47,40 g de sucre en poudre ou sucre semoule
+219,56,2 c. à s. de lait
+219,401,1 c. à s. d'eau de fleur d'oranger
+219,402,10 g de levure de boulanger fraîche
+219,403,1 c. à c. de rhum ambré
+219,6,1 pincée de sel ou sel fin
+219,80,1 l d'huile de tournesol
+219,404,Sucre glace
+220,55,375 g de farine
+220,81,50 g de sucre
+220,43,3 oeufs
+220,6,1 pincée de sel ou sel fin
+220,405,Fleur d'oranger (facultatif) ou ou autre chose
+221,55,500 g de farine
+221,22,125 g de beurre
+221,406,1 sachet de levure
+221,6,5 g de sel ou sel fin
+221,404,Sucre glace
+221,57,Huile de friture
+222,407,30 cl de Crème Fleurette Entière Elle & Vire
+222,6,11g de sel
+222,335,Le zeste d'un citron
+222,294,1/2 c à c de gingembre en poudre 
+222,142,3 jaunes d'œufs
+222,81,40g de sucre
+222,141,De l'huile
+222,155,2 c à s d'amandes effilées
+222,81,40g de sucre
+222,43,2 œufs
+222,55,300g de farine
+222,408,4 gouttes d'extrait de citron
+222,335,Le zeste d'un citron
+223,409,1 verre de rhum
+223,406,1 sachet de levure
+223,43,2 oeufs
+223,6,1 pincée de sel ou sel fin
+223,22,50 g de beurre pommade
+223,47,40 g de sucre en poudre ou sucre semoule
+223,410,250 g de farine de blé blanche (T55)
+224,55,500 g de farine
+224,22,100 g de beurre
+224,411,25 g de levure sèche Déshydratés SAF ou Cube de levure de boulanger
+224,401,10 cl d'eau de fleur d'oranger
+224,43,4 oeufs
+224,57,1 l d'huile de friture Frial , Végétaline ou Végétaline
+224,6,1 pincée de sel ou sel fin
+224,404,Sucre glace
+225,47,1 c à c de sucre poudre
+225,404,1 c à s de sucre glace
+225,335,1 zeste de citron
+225,412,2/4 sachet de levure chimique
+225,22,100g de beurre mou
+225,43,4 œufs
+225,55,350g de farine
+226,413,1 sachet de sucre vanillé
+226,57,1 l d'huile de friture
+226,406,1 sachet de levure
+226,81,15 g de sucre
+226,43,3 oeufs
+226,22,75 g de beurre fondu
+226,55,300 g de farine
+227,43,5 oeufs
+227,55,500 g de farine
+227,22,100 g de beurre mou
+227,3,1 citron bio
+227,404,Sucre glace
+227,412,0,5 sachet de levure chimique
+227,403,2 c. à s. de rhum ambré
+227,6,Sel ou sel fin
+227,57,Huile de friture
+228,55,500 g de farine
+228,81,100 g de sucre
+228,22,100 g de beurre mou
+228,56,0,5 verre de lait
+228,335,1 zeste de citron ou 1 zeste d'orange
+228,412,0,5 sachet de levure chimique
+228,6,0,5 c. à c. de sel ou sel fin
+229,55,500 g de farine
+229,260,1 orange
+229,47,100 g de sucre en poudre ou sucre semoule
+229,22,100 g de beurre ramolli
+229,3,1 citron
+229,56,0,5 verre de lait
+229,404,4 c. à s. de sucre glace
+229,6,1 pincée de sel ou sel fin
+230,141,1 huile
+230,57,1 l d'huile de friture
+230,404,Sucre glace
+230,43,5 oeufs
+230,412,1 c. à c. de levure chimique
+230,6,1 c. à c. de sel ou sel fin
+230,413,1 sachet de sucre vanillé
+230,55,500 g de farine tamisée
+231,412,0,5 sachet de levure chimique
+231,57,Huile de friture
+231,55,700 g de farine
+231,81,200 g de sucre
+231,3,3 citrons
+231,43,4 oeufs
+232,55,500 g de farine
+232,405,3 c. à s. de fleur d'oranger ou rhum
+232,81,100 g de sucre
+232,43,4 oeufs
+232,412,0,5 sachet de levure chimique
+233,3,0,5 citron non traité
+233,409,1 c. à s. de rhum
+233,404,Sucre glace
+233,6,1 pincée de sel ou sel fin
+233,22,50 g de beurre
+233,43,3 oeufs
+233,81,50 g de sucre
+233,55,250 g de farine
+234,82,8 cl d'eau tiède
+234,57,Huile de friture
+234,404,Sucre glace
+234,22,125 g de beurre
+234,43,3 oeufs
+234,406,11 g de levure
+234,6,5 g de sel ou sel fin
+234,55,500 g de farine
+235,401,Eau de fleur d'oranger
+235,141,1,5 l d'huile
+235,404,Sucre glace
+235,6,1 pincée de sel ou sel fin
+235,402,10 g de levure de boulanger fraîche
+235,81,50 g de sucre
+235,22,35 g de beurre
+235,43,2 oeufs entiers
+235,55,250 g de farine
+236,406,1 sachet de levure
+236,141,40 ml d'huile
+236,6,1 pincée de sel ou sel fin
+236,404,Sucre glace
+236,57,Huile de friture
+236,335,1 zeste de citron râpé
+236,405,1 c. à c. de fleur d'oranger
+236,47,150 g de sucre en poudre ou sucre semoule
+236,43,4 oeufs
+236,56,100 ml de lait
+236,141,40 ml d'huile
+236,409,1 c. à s. de rhum
+236,55,500 g de farine
+237,141,1 cuillère à soupe d'huile
+237,55,150 g de farine
+238,43,3 oeufs
+238,401,1 c. à s. d'eau de fleur d'oranger
+238,22,60 g de beurre
+238,6,5 g de sel ou sel fin
+238,81,50 g de sucre
+238,55,330 g de farine
+239,406,1 sachet de levure
+239,413,1 sachet de sucre vanillé
+239,94,200 ml de crème liquide
+239,81,8 cuillères de sucre
+239,6,1 pincée de sel
+239,43,4 œufs
+240,56,du lait
+240,404,sucre glace
+240,47,200g de sucre poudre
+240,6,1 pincée de sel
+240,22,250g de beurre
+240,142,6 jaunes d'œuf
+240,133,1 cube de levure de boulanger
+240,55,1kg de farine
+241,413,1 sachet de sucre vanillé
+241,81,6 c. à s. de sucre
+241,6,3 cuillères de sel ou sel fin
+241,43,7 oeufs
+241,133,1 carré de levure de boulanger
+241,22,250 g de beurre
+241,55,1,2 kg de farine
+242,133,0,5 sachet de levure de boulanger
+242,81,50 g de sucre
+242,43,2 oeufs
+242,22,50 g de beurre
+242,55,250 g de farine
+243,94,10 cl de crème liquide
+243,401,Eau de fleur d'oranger
+243,82,5 cl d'eau
+243,6,1 c. à s. de sel ou sel fin
+243,43,4 oeufs
+243,81,100 g de sucre
+243,22,125 g de beurre
+243,133,2 sachets de levure de boulanger
+243,413,3 sachets de sucre vanillé
+243,55,500 g de farine
+244,6,1 pincée de sel
+244,414,200 ml de lait demi-écrémé
+244,335,Zestes de citron (1)
+244,413,1 sachet de sucre vanillé
+244,43,2 œufs
+244,412,1 sachet de levure chimique
+244,410,500 gr de farine t 45
+244,409,2 c.à.s de rhum
+244,57,Huile pour friture
+244,404,Sucre glace ou sucre en poudre (au choix)
+245,412,1/2 paquet de levure chimique
+245,141,Huile pour la cuisson
+245,55,2 verres de farine
+245,106,Une c à s de crème fraîche
+245,142,3 jaunes d'œufs
+245,81,1 c à s de sucre
+245,56,Un demi-verre de lait
+246,406,1 sachet de levure
+246,141,4 cl d'huile
+246,6,1 pincée de sel ou sel fin
+246,404,Sucre glace
+246,57,Huile de friture
+246,335,1 zeste de citron râpé
+246,405,1 c. à c. de fleur d'oranger
+246,47,150 g de sucre en poudre ou sucre semoule
+246,43,4 oeufs
+246,56,10 cl de lait
+246,141,4 cl d'huile
+246,409,1 c. à s. de rhum
+246,55,500 g de farine
+247,415,5 œufs
+247,404,Sucre glace
+247,6,8 g de sel
+247,412,1 sachet de levure chimique (facultatif)
+247,22,250g de beurre
+247,47,75g de sucre semoule
+247,55,500g de farine
+248,57,huile pour la friture
+248,404,sucre glace pour saupoudrer
+248,6,pincée de sel
+248,98,5 cuillères à soupe de crème fraîche épaisse
+248,55,300 gr de farine
+249,416,un peu d'eau tiède
+249,133,1/2 cube de levure de boulanger
+249,55,125 g de farine
+249,22,100 g de beurre
+249,43,3 œufs
+249,81,50 g de sucre
+249,6,10 g de sel
+249,55,375 g de farine
+250,6,1 pincée de sel ou sel fin
+250,199,1 g de cannelle
+250,335,1 zeste de citron
+250,404,50 g de sucre glace
+250,405,10 g de fleur d'oranger
+250,417,20 g d'extrait de vanille ou vanille liquide
+250,81,80 g de sucre
+250,22,50 g de beurre
+250,43,2 oeufs
+250,412,3 g de levure chimique
+250,55,250 g de farine
+251,401,Eau de fleur d'oranger
+251,56,Un peu de lait
+251,418,1 zeste d'orange
+251,413,1 sachet de sucre vanillé
+251,22,250g de beurre fondu
+251,81,100g de sucre fin
+251,43,8 œufs entiers
+251,55,1kg de farine
+252,6,1 pincée de sel
+252,57,Huile de friture
+252,404,Sucre glace
+252,47,20g de sucre en poudre
+252,43,3 œufs
+252,55,300g de farine
+253,410,400 g de farine de blé blanche (T55)
+253,419,100 g de poudre d'amandes
+253,72,50 g de sucre de canne roux ou cassonade
+253,420,20 g d'huile de noisette
+253,402,20 g de levure de boulanger fraîche
+253,43,1 oeuf
+253,6,1 c. à c. de sel ou sel fin
+254,133,30 g de levure de boulanger
+254,22,100 g de beurre
+254,81,115 g de sucre
+254,43,2 oeufs
+254,55,500 g de farine
+255,320,600g environ de farine Francine or+ pour pétrir
+255,106,25 cl de crème fraîche
+255,47,100g de sucre semoule
+255,43,4 œufs
+256,406,1 sachet de levure
+256,82,4 cl d'eau tiède
+256,81,40 g de sucre
+256,22,120 g de beurre
+256,43,3 oeufs
+256,55,500 g de farine
+257,57,Huile de friture
+257,404,Sucre glace
+257,6,Sel ou sel fin
+257,47,50 g de sucre en poudre ou sucre semoule
+257,409,1 c. à s. de rhum
+257,22,50 g de beurre mou
+257,43,3 oeufs
+257,55,250 g de farine
+258,43,4 œufs
+258,412,1 sachet de levure chimique (11 g)
+258,94,20 cl de crème liquide UHT
+258,22,50g de beurre
+258,6,2 grosses pincées de sel
+258,47,80g de sucre en poudre
+258,57,Huile de friture
+258,55,Farine pour le plan de travail
+258,22,100g de beurre très mou
+258,55,500g de farine
+258,43,1 œuf
+258,142,1 jaune
+259,320,20g de fleur d'oranger
+259,335,1 zeste de citron
+259,22,250g de beurre
+259,81,80g de sucre
+259,406,25g de levure
+259,43,5 œufs
+259,6,10g de sel
+259,55,500g de farine
+260,421,250 g de farine
+260,22,50 g de beurre
+260,47,50 g de sucre en poudre ou sucre semoule
+260,412,1 c. à c. de levure chimique
+260,3,1 citron bio
+260,403,3 cl de rhum ambré
+260,6,Sel ou sel fin
+260,57,80 cl d'huile de friture
+260,404,80 g de sucre glace
+261,11,4 oignons (gros)
+261,302,8 tranches de baguettes
+261,116,1 l de bouillon de volaille ou 1 l d'eau
+261,145,50 g de gruyère rapé
+261,22,30 g de beurre
+261,116,1 cube de bouillon de volaille
+261,40,1 petite branche de thym frais
+261,6,Sel ou sel fin
+261,21,Poivre
+262,272,1 botte d'asperges
+262,327,8 cl de crème liquide entière ( 30% de MG )
+262,17,40 g de parmesan
+262,43,1 oeuf
+262,79,1 c. à c. de fécule de maïs Maïzena
+262,6,Sel ou sel fin
+262,22,Beurre pour les ramequins
+263,43,6 oeufs
+263,283,Persil plat ou Coriandre fraîche
+263,422,1 pot de câpres
+263,329,1,5 c. à c. de moutarde forte
+263,18,3 c. à s. de mayonnaise
+263,6,1 pincée de sel ou sel fin
+263,423,Poivre blanc du moulin
+264,129,2 avocats
+264,424,12 crevettes roses cuites
+264,425,1 pamplemousse rose
+264,426,1 sucrine
+264,2,½ gousse d'ail
+264,427,4 tranches de pain aux céréales
+264,25,¼ de botte de coriandre fraîche
+264,1,1 c à s d'huile d'olive
+264,6,Sel
+264,21,Poivre
+264,162,1 c à c de jus de citron
+265,428,4 tranches de saumon fumé
+265,24,1 citron vert
+265,122,1 petite botte de ciboulette
+265,1,Huile d'olive
+265,5,Poivre du moulin
+266,8,500 g de carottes
+266,56,25 cl de lait
+266,146,25 cl de crème fraîche liquide
+266,1,Huile d'olive
+267,429,4 wraps
+267,430,16 bâtonnets de surimi Coraya
+267,34,8 tomates cerise
+267,431,4 feuilles de batavia
+267,396,2 oignons nouveaux ou Cébettes
+267,129,1 avocat
+267,18,4 c. à s. de mayonnaise
+267,15,2 c. à c. de moutarde
+267,6,Sel ou sel fin
+267,21,Poivre
+268,432,0,5 chou blanc
+268,100,Grain de graine de sésame
+268,223,15 cl de vinaigre de riz ou vinaigre japonais
+268,433,3 c. à s. de sucre roux
+268,223,3 c. à s. de vinaigre de riz ou vinaigre japonais
+268,1,3 c. à s. d'huile d'olive
+268,112,2 c. à s. de mirin
+268,434,1 c. à s. de nuoc-mâm
+268,70,1 c. à c. de sauce soja
+269,195,Roquette
+269,41,1 petit bouquet de basilic
+269,6,Sel ou sel fin
+269,5,Poivre du moulin
+269,143,1 c. à s. de vinaigre balsamique
+269,1,5 c. à s. d'huile d'olive
+269,35,5 tomates bien mûres
+269,135,250 g de mozzarella
+269,2,2 gousses d'ail
+269,172,8 tranches de pain de campagne
+270,172,4 tranches de pain de campagne
+270,435,4 rocamadours
+270,255,6 poignées de salade de mesclun
+270,83,Miel
+270,40,Thym
+270,1,3 c. à s. d'huile d'olive
+270,379,1 c. à s. de vinaigre de cidre
+270,15,0,5 c. à c. de moutarde
+270,6,Sel ou sel fin
+270,21,Poivre
+271,436,2 pavés de pavés de saumon frais
+271,3,1 citron non traité
+271,23,2 échalotes
+271,1,3 c. à s. d'huile d'olive
+271,287,0,5 c. à c. de tabasco Tabasco
+271,422,1 c. à c. de câpres
+271,122,Ciboulette
+271,190,Fleur de sel
+271,5,Poivre du moulin
+272,437,5 asperge des sables des Landes IGP
+272,43,4 oeufs
+272,134,150 g de sauce tomate
+272,106,4 c. à s. de crème fraîche
+272,1,1 c. à s. d'huile d'olive
+272,122,Brin de ciboulette
+272,6,Sel ou sel fin
+272,21,Poivre
+273,9,600 g de pommes de terre à chair ferme
+273,438,200 g de dés de jambon
+273,43,3 oeufs durs
+273,18,150 g de mayonnaise
+273,330,10 cornichons
+273,6,Sel ou sel fin
+273,21,Poivre
+274,439,1 potiron
+274,9,2 pommes de terre
+274,82,Eau
+274,308,Boursin
+274,275,1 crème (facultatif)
+274,440,Gruyère
+274,6,Sel ou sel fin
+274,21,Poivre
+275,29,400 g de filets de poulet
+275,441,1 poignée de pistaches décortiquées / émondées
+275,51,6 tomates confites
+275,442,100 g de fromage blanc ( 0% de MG )
+275,43,2 oeufs
+275,130,2 tranches de pain de mie
+275,396,1 oignon nouveau ou Cébette
+275,106,40 g de crème fraîche
+275,41,10 feuilles de basilic
+275,93,1 c. à c. de piment doux
+275,6,Sel ou sel fin
+275,21,Poivre
+276,443,1 grosse boîte de thon
+276,444,1 grosse boîte de pêche au sirop
+276,18,3 c. à s. de mayonnaise
+276,6,Sel ou sel fin
+276,21,Poivre
+277,445,600 g de pommes de terre à chair ferme
+277,446,200 g de jambon blanc coupé en dés
+277,18,150 g de mayonnaise
+277,330,8 cornichons
+277,43,3 oeufs durs
+277,447,2 c. à s. de crème épaisse légère ( 15% de MG )
+277,448,1 c. à s. de vinaigre de vin blanc
+277,4,1 c. à s. de persil haché
+277,6,Sel ou sel fin
+277,21,Poivre
+278,82,50 cl d'eau
+278,56,20 cl de lait
+278,9,200 g de pommes de terre
+278,11,100 g d'oignons
+278,22,20 g de beurre
+278,103,Noix de muscade
+278,6,Sel ou sel fin
+278,21,Poivre
+279,95,1 pâte feuilletée
+279,325,0,25 maroilles
+279,106,1 pot de crème fraîche
+279,43,3 oeufs
+280,35,6 tomates
+280,331,200 g de fromage blanc
+280,215,0,5 concombre
+280,1,10 cl d'huile d'olive
+280,122,0,25 botte de ciboulette
+280,4,0,25 botte de persil
+280,6,Sel ou sel fin
+280,21,Poivre
+281,137,400 g de maïs
+281,449,200 g de fèves pelées
+281,220,2 oignons rouges
+281,124,1 courgette
+281,49,1 poivron rouge
+281,1,3 c. à s. d'huile d'olive
+281,83,1 c. à s. de miel
+281,260,0,5 orange
+281,24,0,5 citron vert
+281,264,1 c. à c. de moutarde à l'ancienne
+281,450,0,5 zeste de citron vert
+281,6,Sel ou sel fin
+281,21,Poivre
+282,428,4 tranches de saumon fumé
+282,451,4 c. à s. de fromage ail et fines herbes Tartare
+282,331,4 c. à s. de fromage blanc
+282,122,Ciboulette facultatif
+282,6,Sel ou sel fin
+282,21,Poivre
+283,35,6 tomates
+283,379,Vinaigre de cidre
+283,41,1 bouquet de basilic
+283,1,Huile d'olive
+283,135,200 g de mozzarella
+283,6,Sel ou sel fin
+283,21,Poivre
+284,452,2 vermicelle
+284,124,2 courgettes
+284,17,Parmesan
+284,1,Huile d'olive
+284,453,1 cube de bouillon cube de poules
+284,6,Sel ou sel fin
+284,21,Poivre
+285,129,1 avocat
+285,443,0,5 boite de thon
+285,454,1 oignon vert
+285,3,0,5 citron
+285,4,Persil
+285,6,Sel ou sel fin
+286,9,500 g de pommes de terre
+286,113,0,5 salade verte
+286,215,1 concombre
+286,34,12 tomates cerise
+286,455,12 olives noires
+286,18,Mayonnaise (maison de préférence)
+286,6,Sel ou sel fin
+286,21,Poivre
+287,122,Ciboulette (selon les gouts)
+287,2,Ail (selon le gout)
+287,6,Sel
+287,21,Poivre
+287,163,150 grs de fromage rapé
+287,414,25 cl de lait demi-écrémé
+287,43,4 œufs
+287,95,1 pâte feuilletée toute prête
+287,35,3 tomates grappes (plus savoureuse)
+288,456,8 fines tranches de magrets de canard fumés (fines)
+288,143,1 c. à s. de vinaigre balsamique
+288,202,2 c. à s. d'huile d'arachide
+288,302,4 rondelles de baguettes
+288,122,1 bouquet de ciboulette
+288,229,4 poignées de salade ou (trévise, frisée ou laitue)
+288,6,Sel ou sel fin
+288,21,Poivre
+289,457,3 boites de miette de crabe
+289,129,3 avocats
+289,458,1 pamplemousse
+289,3,1 citron
+289,459,1 pot de crème fleurette
+289,287,Tabasco
+289,26,Paprika
+289,6,Sel ou sel fin
+289,5,Poivre du moulin
+290,458,4 pamplemousses
+290,129,2 avocats
+290,460,200 g de crevettes décortiquées
+290,18,4 c. à s. de mayonnaise
+290,3,0,5 citron (le jus)
+290,6,Sel ou sel fin
+290,21,Poivre
+291,461,1/2 verre de lait tiède
+291,1,6 c à s d'huile d'olive
+291,60,60g d'emmental
+291,406,1/2 sachet de levure
+291,21,Poivre
+291,103,Noix muscade
+291,191,1 c à s de Cognac
+291,43,3 œufs
+291,55,150 g de farine
+291,49,1/2 poivron rouge
+291,230,1/2 de poivron jaune
+291,11,1 petit oignon
+291,428,100 g de saumon fumé
+292,35,1 tomate
+292,135,1 mozzarella
+292,113,Feuille de salade verte
+292,212,Origan
+292,1,Huile d'olive
+292,455,Olive noire
+292,422,Câpre
+292,6,Sel ou sel fin
+293,265,1càs de vinaigre de cidre
+293,75,2 càs de lait de coco
+293,287,quelque goutte de tabasco
+293,6,Sel
+293,21,Poivre
+293,88,2 càs de jus de citron vert
+293,336,1 càc de moutarde de dijon
+293,462,400 gr de salade mélangée
+293,129,2 avocats
+293,122,1 botte de ciboulette
+293,25,quelques feuilles de coriandre
+293,424,400 gr de crevettes roses
+294,463,Une dizaine de cornichons
+294,154,Raisins secs
+294,35,3 tomates
+294,464,4-6 merguez
+294,65,1 poivron vert
+294,49,1 poivron rouge
+294,187,300g de semoule à couscous
+295,422,Câpre
+295,18,Mayonnaise
+295,3,0,5 citron
+295,465,1 petit pot d'oeufs de saumon petit
+295,173,100 g de crevettes fraiches
+295,129,3 avocats
+296,162,jus de citron
+296,129,de l'avocat
+296,466,de la mâche
+297,56,1 verre de lait
+297,43,4 oeufs
+297,467,250 g de lardons
+297,95,1 rouleau de pâtes feuilletées
+297,2,Ail
+297,65,1 poivron vert
+297,6,Sel ou sel fin
+297,21,Poivre
+297,124,3,4 courgettes
+297,1,Huile d'olive
+297,4,Persil
+297,40,Thym
+297,139,2 feuilles de laurier
+297,166,Estragon
+297,396,2,3 oignons nouveaux ou Cébettes
+298,468,Un carré de tome
+298,2,ail
+298,150,Un poivron
+298,35,Une tomate
+298,124,Une courgette
+299,6,Sel
+299,21,Poivre
+299,18,250 g mayonnaise
+299,173,1kg de crevettes fraîches
+299,85,500 g de riz
+300,129,2 avocats
+300,424,125 g de crevettes roses
+300,331,100 g de fromage blanc
+300,162,0,5 jus de citron
+300,50,1 pincée de piment d'Espelette
+300,6,Sel ou sel fin
+300,21,Poivre
+301,1,2 c à soupe Huile d'olive
+301,27,2 c à café Cumin
+301,370,300 gr Pois Chiches
+302,6,Sel
+302,21,Poivre
+302,379,2 cuillères à soupe de vinaigre de cidre
+303,469,4 c à soupe d'huile d'olive
+303,190,Fleur de sel
+303,294,1 pincée de gingembre en poudre
+303,122,4 brins de ciboulette
+303,283,6 branches de persil plat
+304,23,1 grosse échalote
+304,1,Huile d'olive
+304,143,Vinaigre balsamique
+304,11,1/2 oignon
+304,137,1 boîte de maïs
+304,35,8 tomates de taille moyenne
+304,438,100 g de dés de jambon
+304,207,300 g d'haricots verts
+305,470,Assaisonnement
+306,471,quelques feuilles de basilic
+306,472,poivre vert
+306,473,copeaux de parmesan
+306,185,6 copeaux de tomates séchées
+306,34,6 tomates cerises
+306,474,1 petit morceau de ricotta
+306,195,2 poignées de roquette
+306,162,1 filet de jus de citron
+306,15,1 cuillère à café de moutarde
+306,1,1 cuillère à soupe d'huile d'olive
+306,143,1 cuillère à soupe de vinaigre balsamique
+306,345,1 cuillère à soupe de vinaigre de vin
+307,397,Vinaigrette
+307,21,Poivre
+307,15,1 c. à s. de moutarde
+307,1,Huile d'olive
+307,41,Basilic
+307,448,Vinaigre de vin blanc
+307,6,Sel ou sel fin
+307,83,1 c. à s. de miel
+307,475,6 tranches de jambon de Bayonne ou jusqu'à 4
+307,371,150 g de feta
+307,476,2 pêches
+307,41,Basilic ciselé
+307,22,20 g de beurre
+307,195,100 g de roquette
+308,50,1 pincée de piment d'Espelette
+308,1,2 c. à s. d'huile d'olive
+308,477,100 g de chair de crabe
+308,6,Sel ou sel fin
+308,25,3 brins de coriandre
+308,196,3 brins de menthe fraîche
+308,56,20 cl de lait
+308,157,1 yaourt grec
+308,162,0,5 jus de citron
+308,2,1 gousse d'ail
+308,215,2 concombres
+309,478,1 c à soupe de beurre
+309,21,Poivre
+309,183,4 c à soupe de pignons de pin
+309,95,2 rouleaux de pâte feuilletée à dérouler
+309,17,100 gr de parmesan
+309,206,4 pommes (Golden ou Gala ou Granny Smith)
+310,479,le jus d'1 citron
+310,142,1 jaune d'œuf
+310,6,Sel
+310,21,Poivre
+310,480,3 c. à soupe d'huile de noix Lesieur
+310,380,150 g de pousses d'épinards
+310,353,60 g de soja
+310,1,5 c. à soupe d'huile d'olive Lesieur
+310,173,18 grosses crevettes
+311,481,Olive
+311,1,Huile d'olive
+311,6,Sel ou sel fin
+311,5,Poivre du moulin
+311,4,Persil
+311,215,Concombre
+311,466,Mâche
+311,92,Champignon
+311,11,Oignon
+311,195,Roquette
+312,482,2 gouttes de vinaigre balsamico sel, poivre, de l'aneth 2 petits radis émincés (dans le sens de la longueur)quelques graines de sésame noir
+312,483,huile de pistache 1 cà soupe
+312,193,une marinade :
+313,484,surimi
+313,173,crevettes
+313,85,riz
+314,195,Roquette (pour la présentation)
+314,35,1 tomate
+314,6,Sel
+314,21,Poivre
+314,43,1 œuf
+314,9,250 g de pomme de terre
+314,92,100 g de champignons
+314,163,Fromage (moi j'ai pris du comté)
+314,92,Quelques champignons
+315,371,50 g de feta
+315,35,3 tomates
+315,215,1 concombre
+315,481,1 poignée d'olives
+315,1,2 c. à s. d'huile d'olive grecque
+315,345,1 c. à s. de vinaigre de vin
+315,485,0,5 c. à c. d'huile d'argan
+315,41,5 feuilles de basilic
+315,122,5 tiges de ciboulette
+315,196,1 branche de menthe
+315,6,Sel ou sel fin
+315,21,Poivre
+316,486,4 c à soupe d'huile d'olive
+316,190,Fleur de sel
+316,294,1 pincée de gingembre en poudre
+316,122,4 brins de ciboulette
+316,283,6 branches de persil plat
+317,487,Graines germées
+317,255,Mesclun
+317,11,1 oignon
+318,488,De la sauce vinaigrette maison (moutarde, huile, vinaigre, sel et poivre à votre convenance)
+318,489,1 pomme granny smith
+318,35,2 tomates ou alors plusieurs tomates cerises
+318,229,De la salade (celle de votre choix)
+319,3,quelques gouttes de citron
+319,430,6 a 8 bâtonnets de surimi
+319,122,des tiges de ciboulettes (déco)
+319,490,1 boîte de mascarpone
+320,18,23 cuillères de la mayonnaise ou sauce vinaigrette
+320,43,3 œufs
+320,484,200 g de bâtonnets de crabe
+320,137,1 boîte de maïs
+320,85,150 g de riz
+321,491,Sel
+321,21,Poivre
+321,162,1 jus de citron
+321,127,250g de petits pois congelés
+321,370,1 petite boite de pois chiches égouttés
+322,134,25g de sauce tomate
+322,278,Aneth pour la déco
+322,21,1 pincée de poivre
+322,3,1/2 citron
+322,6,2 pincées de sel
+322,18,25g de mayonnaise
+322,443,100g de thon
+322,215,1/4 de concombre
+322,492,2 belles tranches de Saumon
+322,106,120g de crème fraîche (pour le concombre)
+322,122,Ciboulette
+322,381,2 radis
+323,67,1 c. à s. de curry
+323,21,Poivre
+323,430,6 bâtonnets de surimi
+323,424,200 g de crevettes roses décortiquées
+323,251,100 g de brocolis
+323,49,0,5 poivron rouge
+111,276,Menthe
+111,3,1 citron
+111,277,2 c à s d'huile de colza ou d'huile d'olive
+111,12,1 bouillon de légumes
+111,278,Aneth
+111,25,Coriandre
+111,215,1 concombre
+111,279,1 fenouil
+111,0,2 blancs de poulet
+324,21,Poivre
+324,118,2 c. à s. de sauce soja sucrée
+324,162,3 c. à s. de jus de citron
+324,493,12 tranches de carpaccio de boeuf
+325,6,Sel
+325,21,Poivre
+325,166,1 c à s d'estragon
+325,43,1 gros œuf
+325,275,30 cl de crème
+326,407,1 échalote
+326,489,2 pommes Granny
+326,162,Le jus d'1/2 citron
+326,6,Sel
+326,21,Poivre
+326,122,3 c à s de ciboulette
+326,89,2 c à s de cacahuètes grillées
+326,494,250/300g de dos de saumon
+326,158,5 endives rouges
+327,6,Sel ou sel fin
+327,21,Poivre
+327,67,Curry
+327,4,Persil
+327,340,3 c. à s. de crème épaisse
+327,484,7 bâtons de surimi
+328,21,Poivre
+328,202,Huile d'arachide
+328,6,Sel ou sel fin
+328,15,Moutarde
+328,43,1 oeuf
+328,140,Cerfeuil
+328,272,20 bocaux d'asperges
+329,1,Huile d'olive
+329,143,Vinaigre balsamique
+329,473,Copeau de copeaux de parmesan
+329,179,Romarin
+329,2,2 ail
+329,183,1 grosse poignée de pignons de pin
+329,124,4 courgettes
+330,6,sel
+330,423,poivre blanc
+330,143,vinaigre balsamique
+330,106,crème fraiche
+330,145,gruyère rapé
+330,144,1 pâte brisée
+331,320,de la mayonnaise Lesieur
+331,443,du thon (1 boite)
+331,43,2 œufs durs
+332,162,0,5 jus de citron
+332,6,Sel ou sel fin
+332,21,Poivre
+332,4,Persil
+332,1,1,5 c. à s. d'huile d'olive
+332,15,1 c. à s. de moutarde
+332,374,35 g de cerneaux de noix
+332,71,10 cl de vin blanc sec
+332,495,250 g de topinambour
+333,9,500 g de pommes de terre
+333,496,1 oignon de Roscoff
+333,146,20 cl de crème fraîche liquide ou 2 c à soupe de crème fraîche épaisse
+333,4,Persil
+333,80,1 c. à s. d'huile de tournesol
+333,367,1 c. à s. de moutarde douce
+333,6,Sel ou sel fin
+333,21,Poivre
+334,320,cube or
+334,241,ail en poudre
+334,1,huile d'olive
+334,389,vinaigre
+335,2,1 gousse d'ail
+335,336,1 c à thé moutarde de Dijon
+335,81,2 c à thé sucre
+335,6,1 pincée de sel
+335,46,1/3 tasse vinaigre blanc
+335,11,oignons
+335,92,champignons(facultatif)
+335,397,Vinaigrette :
+335,35,tomates
+336,320,Ail en poudre
+336,6,Sel
+336,21,Poivre
+336,497,Margarine
+336,143,Vinaigre balsamique
+336,215,½ concombre
+336,43,2 œufs
+337,361,3 c. à s. de vinaigre de xérès
+337,277,3 c. à s. d'huile de colza
+337,6,Sel ou sel fin
+337,21,Poivre
+337,83,1 c. à s. de miel
+337,458,1 pamplemousse
+337,260,1 orange
+337,3,1 citron
+337,272,1 kg d'asperges
+338,320,1/2 échalote
+338,480,Huile de noix
+338,143,vinaigre balsamique
+338,190,Fleur de sel
+338,181,Poivre noir
+338,498,Baies roses
+338,215,1/2 concombre
+338,129,2 avocats
+338,499,une grappe de raisin
+338,124,1 courgette
+338,35,2 tomates (grappe, ou 20 tomatescerises)
+339,389,Vinaigre
+339,6,Sel ou sel fin
+339,15,Moutarde
+339,195,Feuille de roquette
+339,34,10 tomates cerise
+339,500,2 boites de sardines à l'huile
+339,151,1 boite de tapenade
+339,279,1 fenouil
+339,53,Pâtes
+340,173,4 crevettes
+340,162,2 c à soupe de jus de citron
+340,122,2 c à soupe de ciboulette
+340,428,75 g de saumon fumé en dés
+340,129,1 avocat mur
+341,501,3 kiwis
+341,206,1,5 pomme
+341,428,3 tranches de saumon fumé
+342,502,Crème de vinaigre balsamique
+342,17,Parmesan
+342,260,3 oranges
+343,320,Jus de 5 citrons et autant d'huile
+343,6,Sel
+343,21,Poivre
+343,4,5 branches de persil
+343,196,De menthe
+343,11,5 oignons (épluchés et coupé en 4)
+343,35,500g de tomates environ (ébouillantées pour ôter la peau et en quartier)
+343,215,1 concombre (épluché et en gros morceaux)
+343,503,500g de semoule moyenne
+344,320,2 tranches de pain de mie coupées en dés et grillées
+344,6,Du sel (selon le goût)
+344,42,1 laitue
+344,215,3 concombres
+344,18,4 c à s de mayonnaise
+344,162,Le jus d'un citron
+344,137,2 boîtes de 250 g de maïs
+345,504,1 cube or
+345,241,Ail en poudre
+345,1,9 c à s d'huile d'olive
+345,389,4 c à s de vinaigre
+345,158,5 endives
+346,375,2 kakis Ribera del Xuquer AOP
+346,505,300 g de burrata
+346,506,100 g de noisettes
+346,507,0,5 grenade
+346,1,5 c. à s. d'huile d'olive
+346,143,4 c. à s. de vinaigre balsamique
+346,5,6 pincées de poivre du moulin
+346,6,4 pincées de sel ou sel fin

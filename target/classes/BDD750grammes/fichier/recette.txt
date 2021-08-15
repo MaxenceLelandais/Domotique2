@@ -1,0 +1,42 @@
+Bugnes gourmandes,30min,0,0,4.1,150,25min,5min,3h,6
+Bugnes inratables,35min,0,0,4.8,5,10min,25min,undefined,5
+Bugnes,50min,1,0,4.1,495,30min,20min,1h,6
+Bugnes aux amandes avec leurs crème citron, gingembre et vanille,55min,0,0,undefined,undefined,30min,25min,2h,undefined
+Bugnes de carnaval,50min,0,0,3.6,8,30min,20min,2h,6
+Bugnes lyonnaises,31min,1,0,3.7,112,30min,1min,4h,8
+Bugnes (Paul Bocuse),15min,0,0,3.9,20,15min,1h,undefined,undefined
+Bugnes briochées,50min,2,0,3.9,10,30min,20min,3h,6
+Bugnes sucrées,40min,0,0,5,1,30min,10min,2h,15
+Bugnes lyonnaises classiques,30min,2,0,4,56,30min,1h,undefined,undefined
+Bugnes traditionnelles,1h 4min,1,0,3.8,18,1h,4min,2h,6
+Oreillettes ou Fazouelos,35min,2,0,5,1,15min,20min,2h,8
+Ganses niçoises,36min,0,0,4.1,34,35min,1min,1h,6
+Bugnes sans beurre,23min,0,0,4.2,20,20min,3min,24min,5
+Bugnes avec jus de citron,27min,0,0,4.3,7,25min,2min,1min,8
+Beignets de Mardi Gras,15min,0,0,4.1,23,10min,5min,undefined,6
+Les ganses de Carnaval (pâte légère),40min,0,0,4,26,10min,30min,2h,12
+Oreillettes parfumées au citron,50min,0,0,4.1,15,30min,20min,3h 50min,6
+Bugnes maison,Facile,3,1,4.1,11,undefined,undefined,undefined,undefined
+Bugnes lyonnaises faciles,17min,0,2,3.7,37,15min,2min,2min,6
+Guenilles,32min,0,0,4,11,30min,2min,undefined,undefined
+Bugnes moelleuses,20min,0,0,3.9,20,20min,2h,undefined,undefined
+Bugnes au sucre vanillé,20min,2,2,3.9,12,15min,5min,3h,8
+Bugnes classiques,34min,0,0,3.8,9,30min,4min,3h,10
+Bugnes économiques,1h 15min,2,0,4,2,45min,30min,3h 20min,8
+Bugnes ou oreillettes,22min,2,0,3.6,23,20min,2min,3h,undefined
+Bugnes russes,45min,2,0,3.7,6,30min,15min,undefined,undefined
+Beignets de carnaval (à ma façon),50min,1,0,3.6,8,30min,20min,3h,6
+Bugnes Dauphinoises,25min,2,2,3.7,9,10min,15min,2h,undefined
+Bugnes du carnaval,35min,2,0,3.5,4,20min,15min,15min,undefined
+Bugnes à la fleur d'oranger,20min,2,0,undefined,undefined,15min,5min,undefined,undefined
+Bugnes Lyonnaises en chiffres,1h 5min,0,0,undefined,undefined,30min,35min,1h,10
+Bugnes ou beignets de carnaval,1h,2,2,undefined,undefined,20min,40min,1h,undefined
+Bugnes faciles,15min,2,0,undefined,undefined,10min,5min,1min,undefined
+Bugnes au four,30min,2,0,undefined,undefined,25min,5min,1h 20min,undefined
+Les bugnes boulangères,1h 7min,2,0,4.1,30,55min,12min,2h 30min,4
+Bugnes de lyon,6min,1,0,3.8,6,5min,1min,3min,undefined
+Bugnes au thermomix,25min,0,0,3.6,18,15min,10min,undefined,4
+Bugnes lyonnaise,38min,0,0,undefined,undefined,30min,8min,5h,6
+Bugnes au chocolat,1h 8min,2,0,undefined,undefined,1h,8min,12min,undefined
+Bugnes lyonnaises économiques,16min,0,0,undefined,undefined,15min,1min,undefined,undefined
+Les bugnes,32min,1,0,5,1,30min,2min,2h,undefined
